@@ -1,3 +1,11 @@
-Where are the bad vibes mentioned
-Map vs Video
-Broad timeline of when what happened for easier searching in videos
+- [ ] Process first [[Barn]] interaction with [[FTD-Git/Characters/Stranger|Stranger]] in [[Barn]]
+- [ ] Process [[Gazebo]] backstory
+- [ ] Process info about [[Sunny's Grandma]]
+- [ ] Process info about [[Sunny's Aunt]]
+- [ ] Process info about [[Grimm]]
+- [ ] Process info about [[FTD-Git/Characters/Stranger|Stranger]]
+- [ ] Process interaction of [[Grimm]] disappearing near [[Trailer]]
+- [ ] [[Mailbox Plot]] background
+- [ ] Process [[Barn]] Description 10:35
+- [ ] Process Basement first look info
+	- [ ] Process Stranger appearance in basement
