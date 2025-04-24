@@ -11,3 +11,4 @@ Should I go: **_Yes_** or No ^sidt-3
 What should I do?: **_Talk to it_** or Accept my new home ^sidt-4
 OCB What should I ask it? ^ocb-3
 OCB over video with the morse code in the background Any ideas? ^ocb-4
+Should I go talk to it?: **_Yes_** or No ^sidt-5

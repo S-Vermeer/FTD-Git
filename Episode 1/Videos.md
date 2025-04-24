@@ -58,7 +58,16 @@ Sunny leaves, no longer feels safe in this house. Heard some weird beeping noise
 for questions that she will ask it tomorrow if she can get ahold of it.
 OCB over video with the morse code in the background #choice Any ideas? ^ocb-4
 #TS 14:55
-Was in the kitchen to make herself
+Was in the kitchen to make herself a snack and the [[FTD-Git/Characters/Stranger|Stranger]] is just standing there outside the window. Has been waving at her. #choice Should I go talk to it? ^sidt-5
+#TS 15:27
+Sunny approaches the [[FTD-Git/Characters/Stranger|Stranger]] and asks it if it wants to talk to her because it was waving. Stranger responds with "Did I scare you?" Sunny asks "Yesterday?" in reply. Stranger confirms. Sunny replies "Yes, very badly." The stranger tilts its head down at this. Sunny asks whether it is okay, and whether it has a name. It shakes its head in reply. Sunny asks "Would you like one" and it shakes its head. It says "Go check the [[Basement]]." Sunny asks "Are you going to scare me again". The stranger replies "Not on purpose."
+#TS 16:20
+Sunny goes to their room because they are, in their own words, a coward. But they know they have to go, and they know if they left the choice to us we would tell them to go. So they will after they mentally prepare themselves. 
+After an hour of mental preparation, they go to the basement. The lights go off in the hallway, and when they turn the corner we see the [[FTD-Git/Characters/Stranger|Stranger]] turning off the lights for the main room of the [[Basement]]. Once Sunny enters the Basement, the Stranger is gone. Sunny turns around, mentions a photo that always creeps her out #TS 17:15, turns back around while turning on the lights and the Stranger is sitting in the chair.
+Sunny says "Hi, where am I looking". The Stranger has a staring contest with Sunny and then simply replies: "Yes :)"
+
+End of episode 1.
+
 
 
 
