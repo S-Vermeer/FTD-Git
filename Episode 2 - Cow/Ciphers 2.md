@@ -1,2 +1,2 @@
 [[Grocery]] - Phone number
-[[Math - gewswz]] - xxxx
+[[Math - gewswz]] - Phone number + Cipher Exodus (Key Chip)

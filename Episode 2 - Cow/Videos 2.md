@@ -4,7 +4,7 @@ In the [[Basement]], continuation after [[Videos 1||Episode 1]].
 [[Sunny]] asks the [[FTD-Git/Characters/Stranger|Stranger]] what she is looking for. The stranger responds with "You'll know"
 #TS: 18:02 
 There is a paper in a white miniature house/church thing. Sunny shows it to the stranger and asks whether this is it, the stranger replies to "keep looking, there's more". 
-#TS: 18:20 #morse `... --- .--. .... .. .` : Translation = Sophie. Sunny asks if it is the same morse code as before (end of episode 1), and the stranger responds with yeah. It has moved from the chair to the doorway.
+#TS: 18:20 #morse `... --- .--. .... .. .` : Translation = [[Sophie Perry|Sophie Perry]]. Sunny asks if it is the same morse code as before (end of episode 1), and the stranger responds with yeah. It has moved from the chair to the doorway.
 
 Pretty flowers!! or Music book! ^bsc-1
 #TS: Majority voted book. Book is called the Broadman Hymnal. The paper is hidden on song 382 or 383. The songs shown are He Ransomed me by J.W. ??? and He Died of a Broken Heart by T. ????
@@ -23,7 +23,7 @@ Ashes kinda sus or Coffee grinder sus ^bsc-4
 #TS: 20:18. Majority voted ashes. Sunny removes protective covering and finds a paper in the ashes. 
 
 Coffee grinder or Piano Bench ^bsc-5
-#TS: 20:34. Majority vote said Piano Bench. It is filled with a bunch of stuff, amongst which a paper. It also has a note. {Check what it says and whether it is part of the ARG or not}
+#TS: 20:34. Majority vote said Piano Bench. It is filled with a bunch of stuff, amongst which a paper. It also has a note, but it was later verified to be unrelated, Ashby is the name of Auggie's cousin. However, there is a reference to a 'paw paw' which was **not** a nickname that Sunny gave her grandpa. 
 #TS: 20:49. Goes to show the new choices, but spots one in the frame of a painting. 
 #TS: 20:55. Again, goes to show off choices but spots one next to the coffee grinder and some sort of home sound system, a picture of someone in a white dress and some sort of ash tray with in it a pack of matches, some coins and the paper.
 #TS: 20:58. Looks up at the coffee grinder and sees a paper sticking out of it.
@@ -49,7 +49,7 @@ Goes to see grim, walking over a sunny path with a positive attitude. Has brough
 Should I follow the dog: Yes or No ^ftd-3
 Follows Grimm to a field. Grimm goes to grab a stick.
 #TS: 24:34. Sunny finds tiny little headstones at the side of the field. Grimm is gone. The [[FTD-Git/Characters/Stranger|Stranger]] shows up and says that it is a [[Pet Cemetery]]. Sunny is frightened because the stranger snuck up on her. Scene cut and then Sunny goes to explain and Grimm is back and the stranger is nowhere to be found. 
-#TS: 25:03 Walking home, Sunny explains that before disappearing, the stranger explained that the pet cemetery belonged to 'the man in trailer'. Sunny points out the [[Trailer]], saying that it means that a man used to live there and she is not going to investigate there now because she is not in the mood to deal with whatever scary things are there. She doesn't know if someone is living in there right now. Based on this clue, Sunny wants to do research on who lived there before and whether they knew [[Sophie]] and whether Sophie had anything to do with the trailer.
+#TS: 25:03 Walking home, Sunny explains that before disappearing, the stranger explained that the pet cemetery belonged to 'the man in trailer'. Sunny points out the [[Trailer]], saying that it means that a man used to live there and she is not going to investigate there now because she is not in the mood to deal with whatever scary things are there. She doesn't know if someone is living in there right now. Based on this clue, Sunny wants to do research on who lived there before and whether they knew [[Sophie Perry]] and whether Sophie had anything to do with the trailer.
 
 Grimm is walking home, done for the day. Sunny says she is going to do some more investigating.
 
@@ -78,10 +78,10 @@ Should I Go? Yes or No ^sidt-8
 #TS: 30:25, points out to where the trailer is, is debating going but is unsure. 
 Thanks everyone who voted No, and goes to read the second note found in the backpack [[Backpack Marcy Todd 2]]. Sunny summarizes that the Backpack probably belonged to [[Marcy Todd]]. She thinks the placement of the backpack was purposeful for her to see. Thinks the [[FTD-Git/Characters/Stranger|Stranger]] put it on the [[Bridge]] for Sunny to see. 
 
-#TS: 31:32. Calls out because someone has been knocking. In the bathroom (?). When she opens the door no one is there, but there is a note on the ground, written in red crayon saying 222 church street on one side and Go ! :) on the other. Sunny assumes that the [[FTD-Git/Stranger|Stranger]] wrote it due to the handwriting and red crayon, and that it wants her to go to the location. Mentions how she does have a car and can drive there. Says how she is going to keep her car doors locked at all times, not going out of the car and carrying pepper spray.
-#TS: 32:37. Says she lied about getting out of the car. Shows the [[Church]]. It is very spooky looking especially at night. It does not look burnt down, but behind what is visible it is completely destroyed. There is a barbed wire fence around it. Against the fence there is a note on the ground. 
+#TS: 31:32. Calls out because someone has been knocking. In the bathroom (?). When she opens the door no one is there, but there is a note on the ground, written in red crayon saying 222 church street on one side and Go ! :) on the other. Sunny assumes that the [[FTD-Git/Characters/Stranger|Stranger]] wrote it due to the handwriting and red crayon, and that it wants her to go to the location. Mentions how she does have a car and can drive there. Says how she is going to keep her car doors locked at all times, not going out of the car and carrying pepper spray.
+#TS: 32:37. Says she lied about getting out of the car. Shows the [[Trinity Church]]. It is very spooky looking especially at night. It does not look burnt down, but behind what is visible it is completely destroyed. There is a barbed wire fence around it. Against the fence there is a note on the ground. 
 #TS 33:17. Sunny is puzzled because it has math on the back. 
 
 #TS: 33:57, Sunny came outside and the [[FTD-Git/Characters/Stranger|Stranger]] is just standing there by the [[Lake]]. Per suggestion of the discord to befriend the stranger, has brought a gift. It is a plushie with a horn (narwhal?) Stranger goes to eat the horn, but Sunny stops it. Stranger looks at it and says "Cow". Sunny says that it is not a cow, that's Phillip. Stranger goes to pat it, and says "Cow" again. Sunny laughs a little and says, yeah. Cow. 
 
-#TS: 34:46. [[FTD-Git/Stranger|Stranger]] suggests that Sunny should go to the [[Trailer]]. Sunny asks "right now?" and the stranger nods. Sunny grabs a golf cart and goes away. 
+#TS: 34:46. [[FTD-Git/Characters/Stranger|Stranger]] suggests that Sunny should go to the [[Trailer]]. Sunny asks "right now?" and the stranger nods. Sunny grabs a golf cart and goes away. 

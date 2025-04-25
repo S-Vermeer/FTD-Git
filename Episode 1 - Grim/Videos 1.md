@@ -48,7 +48,7 @@ Some more pieces to an old tractor are found after saying nope to the spider.
 #TS 11:50 Near the barn. "Hello, I'd like to talk to you about the gazebo and Grimm" met with radio silence.
 Sunny ends up going home because nothing was happening at the barn. Sunny is thirsty but the fridge with the water in it is in the [[FTD-Git/Locations/Basement|Basement]] and its very scary and she doesn't want to go down there. 
 #choice Should I go?: Yes or No ^sidt-3
-#TS 12:17 Majority voted yes. She quickly goes to grab the water, starts explaining about how creepy it is while looking at a doll, turns around to point something else out and there is the [[Stranger]] so she runs and locks herself in the downstairs bathroom. 
+#TS 12:17 Majority voted yes. She quickly goes to grab the water, starts explaining about how creepy it is while looking at a doll, turns around to point something else out and there is the [[FTD-Git/Characters/Stranger|Stranger]] so she runs and locks herself in the downstairs bathroom. 
 #choice What should I do?: Talk to it or Accept my new home ^sidt-4
 #TS 12:51 Opened the door, thinks it has travelled because the door is closed now. Bell goes off in the other room. #weird-tech some weird error thing distorts the screen multiple times over the next few seconds. The [[FTD-Git/Characters/Stranger|Stranger]] is peeking behind the doorpost.
 "Who are you" "I am what they have (not) / (lost)"
