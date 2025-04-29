@@ -8,3 +8,5 @@ Length: 5'1
 Weight: 125-140 lb
 
 Last wearing a light pink sweater and her Father's jean jacket. She has brown eyes and shoulder length brown hair.
+
+She was also mentioned in [[Backpack Marcy Todd 1]] and [[Backpack Marcy Todd 2]], where one of her parents accuses [[Marcy Todd]] of having a bad influence on her, as well as blaming them for her disappearance. It references Sophie possibly 'giving in to sin', as well as Marcy Todd having a noticible effect on her.

@@ -4,6 +4,6 @@
 `[[Discord - Unsorted]]`
 [[People]]
 [[README]]
-[[FTD-Git/Stranger|Stranger]]
+[[FTD-Git/Unsorted/Stranger|Stranger]]
 [[TO DO]]
 [[Untitled.canvas|Untitled]]

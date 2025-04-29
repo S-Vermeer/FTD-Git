@@ -1,3 +1,5 @@
+#graphhide
+
 2021
 #TS: 17:50
 In the [[Basement]], continuation after [[Videos 1||Episode 1]].
@@ -7,7 +9,7 @@ There is a paper in a white miniature house/church thing. Sunny shows it to the 
 #TS: 18:20 #morse `... --- .--. .... .. .` : Translation = [[Sophie Perry|Sophie Perry]]. Sunny asks if it is the same morse code as before (end of episode 1), and the stranger responds with yeah. It has moved from the chair to the doorway.
 
 Pretty flowers!! or Music book! ^bsc-1
-#TS: Majority voted book. Book is called the Broadman Hymnal. The paper is hidden on song 382 or 383. The songs shown are He Ransomed me by J.W. ??? and He Died of a Broken Heart by T. ????
+#TS: Majority voted book. Book is called the Broadman Hymnal. The paper is hidden on song 382 or 383. The songs shown are He Ransomed me by J.W. Henderson and He Died of a Broken Heart by T. Dennis
 
 Pretty flowers ->:\[ or The bell for sure ^bsc-2
 #TS: 19:16 Sunny finds a paper under what seems like a praying golden angel. 
@@ -34,7 +36,7 @@ Kettle or Piano ^bsc-6
 #TS: 21:28. Majority voted Kettle. Contains a pair of cards (4 of hearts and 7 of hearts), a shell, and a coupon but no paper. Goes to check the piano and finds it along with a #TS: 21:44 google docs link written by a child in red crayon. The stranger is no longer in the room. Sunny calls out 
 to it whether she can ask it about it, but no response.
 
-#TS: 22:22, Shows all the papers saying the same thing written in red crayon, #morse morse code for Sophie. Also shows the document with the link. {link}
+#TS: 22:22, Shows all the papers saying the same thing written in red crayon, #morse morse code for Sophie. Also shows the document with the link. 
 It is almost 2AM for Sunny so goes to sleep.
 #TS: 21:11 It is morning, Sunny has translated the link.
 [https://docs.google.com/document/d/1-1KN6bGFspwwru7-8VrTrBS4HUFZR_gSrwQtw7wFNbw/edit](https://docs.google.com/document/d/1-1KN6bGFspwwru7-8VrTrBS4HUFZR_gSrwQtw7wFNbw/edit "https://docs.google.com/document/d/1-1KN6bGFspwwru7-8VrTrBS4HUFZR_gSrwQtw7wFNbw/edit")
@@ -49,7 +51,7 @@ Goes to see grim, walking over a sunny path with a positive attitude. Has brough
 Should I follow the dog: Yes or No ^ftd-3
 Follows Grimm to a field. Grimm goes to grab a stick.
 #TS: 24:34. Sunny finds tiny little headstones at the side of the field. Grimm is gone. The [[FTD-Git/Characters/Stranger|Stranger]] shows up and says that it is a [[Pet Cemetery]]. Sunny is frightened because the stranger snuck up on her. Scene cut and then Sunny goes to explain and Grimm is back and the stranger is nowhere to be found. 
-#TS: 25:03 Walking home, Sunny explains that before disappearing, the stranger explained that the pet cemetery belonged to 'the man in trailer'. Sunny points out the [[Trailer]], saying that it means that a man used to live there and she is not going to investigate there now because she is not in the mood to deal with whatever scary things are there. She doesn't know if someone is living in there right now. Based on this clue, Sunny wants to do research on who lived there before and whether they knew [[Sophie Perry]] and whether Sophie had anything to do with the trailer.
+#TS: 25:03 Walking home, Sunny explains that before disappearing, the stranger explained that the pet cemetery belonged to 'the man in trailer'. Sunny points out the [[Trailer]], saying that it means that a man used to live there and she is not going to investigate there now because she is not in the mood to deal with whatever scary things are there. She doesn't know if someone is living in there right now. Based on this clue, Sunny wants to do research on who lived there before and whether they knew [[Sophie Perry|Sophie]] and whether Sophie had anything to do with the trailer.
 
 Grimm is walking home, done for the day. Sunny says she is going to do some more investigating.
 
@@ -65,9 +67,9 @@ Should I make a discord?: Yes or No ^sidt-7
 
 #TS: 27:39. Shows the [[Gazebo]] and the path that goes around the [[Lake]]. Mentions that her [[Sunny's Grandpa||Grandpa]] dug this lake by hand. 
 #TS: 27:53, Sunny is frightened, asking us if we heard that. Goes really quiet and at #TS: 28:15 we hear something high pitched. Sunny asks us to tell her what it is, hoping it is a bird.
-#TS: 28:26. Sees a backpack on the [[Bridge]] near the [[Gazebo]]. Mentions that it was not here the other day. Takes it with her.
-#TS: 28:32. Quiet, mentions how the vibes are horrible 'out here'. Searched the whole backpack and found a very upsetting message. [[Backpack Marcy Todd 1]]. Sunny reads the note to us.
-#TS: 29:23. It is getting dark, and she doesn't feel comfortable being out here for too much longer, but sunny asks us in an open chat box whether there is anything else she should do. In the caption she also says that there is another note in the backpack. ^ocb-5
+#TS: 28:26. Sees a [[Backpack]] on the [[Bridge]] near the [[Gazebo]]. Mentions that it was not here the other day. Takes it with her.
+#TS: 28:32. Quiet, mentions how the vibes are horrible 'out here'. Searched the whole [[Backpack]] and found a very upsetting message. [[Backpack Marcy Todd 1]]. Sunny reads the note to us.
+#TS: 29:23. It is getting dark, and she doesn't feel comfortable being out here for too much longer, but sunny asks us in an open chat box whether there is anything else she should do. In the caption she also says that there is another note in the [[Backpack]]. ^ocb-5
 #TS: 29:34. Has a note in her hand. Says how it sounds nuts but she would feel a lot safer if the stranger would show up.
 
 A response to the chatbox is to 'Go around the trailer and try to see if theres any movement around'. Sunny says she would but the trailer is pretty far away and the sun is very much setting. Isn't really ready to be out there in the complete dark.
@@ -76,10 +78,10 @@ Another response was to go back home, then read the rest of the note there if yo
 
 Should I Go? Yes or No ^sidt-8
 #TS: 30:25, points out to where the trailer is, is debating going but is unsure. 
-Thanks everyone who voted No, and goes to read the second note found in the backpack [[Backpack Marcy Todd 2]]. Sunny summarizes that the Backpack probably belonged to [[Marcy Todd]]. She thinks the placement of the backpack was purposeful for her to see. Thinks the [[FTD-Git/Characters/Stranger|Stranger]] put it on the [[Bridge]] for Sunny to see. 
+Thanks everyone who voted No, and goes to read the second note found in the [[Backpack]] [[Backpack Marcy Todd 2]]. Sunny summarizes that the [[Backpack]] probably belonged to [[Marcy Todd]]. She thinks the placement of the [[Backpack]] was purposeful for her to see. Thinks the [[FTD-Git/Characters/Stranger|Stranger]] put it on the [[Bridge]] for Sunny to see. 
 
 #TS: 31:32. Calls out because someone has been knocking. In the bathroom (?). When she opens the door no one is there, but there is a note on the ground, written in red crayon saying 222 church street on one side and Go ! :) on the other. Sunny assumes that the [[FTD-Git/Characters/Stranger|Stranger]] wrote it due to the handwriting and red crayon, and that it wants her to go to the location. Mentions how she does have a car and can drive there. Says how she is going to keep her car doors locked at all times, not going out of the car and carrying pepper spray.
-#TS: 32:37. Says she lied about getting out of the car. Shows the [[Trinity Church]]. It is very spooky looking especially at night. It does not look burnt down, but behind what is visible it is completely destroyed. There is a barbed wire fence around it. Against the fence there is a note on the ground. 
+#TS: 32:37. Says she lied about getting out of the car. Shows the [[Trinity Church]]. It is very spooky looking especially at night. It does not look burnt down, but behind what is visible it is completely destroyed. There is a barbed wire fence around it. Against the fence there is a note ([[Math - gewswz]]) on the ground. 
 #TS 33:17. Sunny is puzzled because it has math on the back. 
 
 #TS: 33:57, Sunny came outside and the [[FTD-Git/Characters/Stranger|Stranger]] is just standing there by the [[Lake]]. Per suggestion of the discord to befriend the stranger, has brought a gift. It is a plushie with a horn (narwhal?) Stranger goes to eat the horn, but Sunny stops it. Stranger looks at it and says "Cow". Sunny says that it is not a cow, that's Phillip. Stranger goes to pat it, and says "Cow" again. Sunny laughs a little and says, yeah. Cow. 

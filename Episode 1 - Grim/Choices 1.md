@@ -1,3 +1,4 @@
+#graphhide 
 Follow the dog: **_Yes_** or No ^ftd-1
 Name suggestions: xxxx ^ocb-1
 Where should I go: Gazebo or **_Barn_** ^lc-1

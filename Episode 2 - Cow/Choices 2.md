@@ -1,3 +1,4 @@
+#graphhide 
 Where should I look?: Pretty flowers!! or ***Music book!*** ^bsc-1
 Where to look next?: ***Pretty flowers ->:\[*** or The bell for sure ^bsc-2
 Where should I search?: ***Bell for sure*** or Search the ashes. ^bsc-3

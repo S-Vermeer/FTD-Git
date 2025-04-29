@@ -40,3 +40,7 @@ Goes to search some more, nothing between the pillows or in the red glass orname
 Kettle or Piano ^bsc-6
 #TS: 21:28. Majority voted Kettle. Contains a pair of cards (4 of hearts and 7 of hearts), a shell, and a coupon but no paper. Goes to check the piano and finds it along with a #TS: 21:44 google docs link written by a child in red crayon. The stranger is no longer in the room. Sunny calls out 
 to it whether she can ask it about it, but no response.
+
+#TS: 23:34. Was searching in the [[Basement]] during the day to spot anything she missed, sees opened bag of canine carry outs on the ground. These are the dog treats she got for [[Grimm]], they are open and half of them are gone. They don't have any pets in the house.
+
+#TS: 26:29. Discord link + closer look at contents from the kettle from the [[Basement]]. The coupon was for a high school, american school, At home in your spare time - No classes. Diploma awarded. Mail coupon today for free information. There are matches inside.
