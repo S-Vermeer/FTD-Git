@@ -1,15 +1,15 @@
 16-11-2021 (Dates may differ due to time zones)
-Sunny gets asked about her jean jacket. 
+!Sunny gets asked about her jean jacket. 
 All I know is that it belonged to my [[Sunny's Grandpa|Grandad]], and my [[Sunny's Grandma|Grandma]] gave it to me as a gift to remember him by.
 So, yes! It is a hand-me-down
 https://discord.com/channels/909909069345726524/909954145568571453/909979851354701885
 
-Sunny gets asked whether she has mentioned the strange things to her grandma or whether her grandma has mentioned anything to her.
+!Sunny gets asked whether she has mentioned the strange things to her grandma or whether her grandma has mentioned anything to her.
 
 Great question! I’ve been trying not to stress her out, so I don’t say much. She’s also deaf and doesn’t know ASL, so I can usually only talk to her fluently when she has her cochlear implant in, but all I have mentioned is the dog. She told me that dog pays the house visits every now and again. She has told me ghost stories in the past, and it’s a popular theory in my family that the land is haunted, but nobody has said anything about a black dog or about anyone named Sophie.
 https://discord.com/channels/909909069345726524/909954145568571453/909981325879046194
 
-Ghost stories
+!Ghost stories
 Not that I can think of. There is this one ghost story my grandma told me when I was younger. Whenever my grandfather first built the house on this land, she was home alone and went outside to hang up some laundry on the clothes line when she heard a high pitched voice calling out the name “Rosie! Rosie!” She looked and looked and nobody was there.
 https://discord.com/channels/909909069345726524/909954145568571453/909982929906696222
 
