@@ -1,6 +1,6 @@
 The stranger first shows up, sitting outside the [[Barn]]. Due to it smiling weirly, Sunny gets scared and bolts. When Sunny returns to go to the Gazebo, the Stranger has disappeared. 
 
-When Sunny goes to step foot into the [[Gazebo]], the Stranger appears behind her and says "I wouldn't step foot in that if I were you." before disappearing again. (TS 5:58)
+When Sunny goes to step foot into the [[FTD-Git/Locations/Gazebo]], the Stranger appears behind her and says "I wouldn't step foot in that if I were you." before disappearing again. (TS 5:58)
 
 When Sunny is looking for Grimm, the stranger can be seen in the woods in the background, coming closer.
 

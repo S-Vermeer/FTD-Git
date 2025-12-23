@@ -14,11 +14,11 @@ Majority voted [[Barn]]. Person is unknown to Sunny. She asks the next #choice S
 Majority voted yes, she says hello, excuse me, the [[FTD-Git/Characters/Stranger|Stranger]] smiles weirdly and Sunny bolts. The stranger stays seated, still smiling.
 
 #TS: 5:45
-Little time jump, The stranger has left. Sunny goes to look at the [[Gazebo]]. 
+Little time jump, The stranger has left. Sunny goes to look at the [[FTD-Git/Locations/Gazebo]]. 
 Backstory for the gazebo: Parents got married there. It's very old now. Its {little tech thing here, maybe sayings its oak}. #TS: 5:58 [[FTD-Git/Characters/Stranger|Stranger]] appears behind Sunny and says "I wouldn't step foot in that if I were you." You can hear Sunny stepping on something wood and freezing. When Sunny turns around the stranger is gone. #TS: 6:03. Sunny is spooked and goes to look for the black dog again.
 
 #TS: 6:30
-Sunny took a break, went inside. After evaluation, she thinks it might be dumb but she wants to go looking for the dog. She wants to go explore the [[Barn]] and see if she can get ahold of the [[FTD-Git/Characters/Stranger|Stranger]] again and ask them why they shouldn't go to the [[Gazebo]]. She's just accepting something weird is going on here.
+Sunny took a break, went inside. After evaluation, she thinks it might be dumb but she wants to go looking for the dog. She wants to go explore the [[Barn]] and see if she can get ahold of the [[FTD-Git/Characters/Stranger|Stranger]] again and ask them why they shouldn't go to the [[FTD-Git/Locations/Gazebo]]. She's just accepting something weird is going on here.
 
 #TS : 6:50
 #choice Should I call for the dog: Yes or No ^sidt-2

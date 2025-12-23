@@ -5,7 +5,7 @@ Sunny has a [[Sunny's Grandma||Grandma]] who she is staying with at the start of
 Sunny uses the viewers to make choices, should or should she not do something, which location should she go to, and open questions.
 During the first location choice, she sees someone sitting at a [[Barn]], so when the viewers vote to go there, she goes closer but doesn't recognise the person. The now dubbed [[FTD-Git/Characters/Stranger|Stranger]] smiles weirdly and Sunny bolts, thus marking the first meeting.
 
-The other location was the [[Gazebo]], which is where Sunny goes next. It is revealed to have been where her parents got married. At the Gazebo, the [[FTD-Git/Characters/Stranger|Stranger]] appears and says "I wouldn't step foot in that if I were you"
+The other location was the [[FTD-Git/Locations/Gazebo]], which is where Sunny goes next. It is revealed to have been where her parents got married. At the Gazebo, the [[FTD-Git/Characters/Stranger|Stranger]] appears and says "I wouldn't step foot in that if I were you"
 
 After that Sunny goes to look for the dog and the Stranger again to question them. During the search Sunny reveals that she has an [[Sunny's Aunt|Aunt]] that told them the dog is a frequent visitor. The dog is male and his name is [[Grimm]].
 
@@ -40,9 +40,9 @@ Sunny sitting in front of something where a paper written in red crayon is visib
 Sun is setting while she is approaching the [[Barn]]. Keeps hearing barking, but that is not that unusual around here because there's a lot of dogs in the area and they do have neighbours. Sunny is getting very bad vibes at the barn. Decides to take a break and go somewhere else first. 
 
 
-Shows the [[Gazebo]] and the path that goes around the [[Lake]]. Mentions that her [[Sunny's Grandpa||Grandpa]] dug this lake by hand. 
+Shows the [[FTD-Git/Locations/Gazebo]] and the path that goes around the [[Lake]]. Mentions that her [[Sunny's Grandpa||Grandpa]] dug this lake by hand. 
 #TS: 27:53, Sunny is frightened, asking us if we heard that. Goes really quiet and at #TS: 28:15 we hear something high pitched. Sunny asks us to tell her what it is, hoping it is a bird.
-#TS: 28:26. Sees a [[Backpack]] on the [[Bridge]] near the [[Gazebo]]. Mentions that it was not here the other day. Takes it with her.
+#TS: 28:26. Sees a [[Backpack]] on the [[Bridge]] near the [[FTD-Git/Locations/Gazebo]]. Mentions that it was not here the other day. Takes it with her.
 #TS: 28:32. Quiet, mentions how the vibes are horrible 'out here'. Searched the whole [[Backpack]] and found a very upsetting message. [[Backpack Marcy Todd 1]]. Sunny reads the note to us.
 #TS: 29:23. It is getting dark, and she doesn't feel comfortable being out here for too much longer, but sunny asks us in an open chat box whether there is anything else she should do. In the caption she also says that there is another note in the [[Backpack]]. ^ocb-5
 #TS: 29:34. Has a note in her hand. Says how it sounds nuts but she would feel a lot safer if the stranger would show up.

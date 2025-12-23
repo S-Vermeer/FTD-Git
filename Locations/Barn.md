@@ -1,4 +1,4 @@
-First location choice, Barn or [[Gazebo]]
+First location choice, Barn or [[FTD-Git/Locations/Gazebo]]
 There is a person sitting at the barn. Majority votes to go there. The [[FTD-Git/Characters/Stranger|Stranger]] smiles weirdly as Sunny approaches and Sunny bolts.
 
 Location choice, [[Trailer]] or Barn. Majority votes Barn.
