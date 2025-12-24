@@ -18,3 +18,7 @@ what I'm plagued with at the hands of you
 
 
 On the back it says: I broke my own rule.
+
+![[gazebo_1_front.png]]
+
+![[gazebo_1_back.png]]
