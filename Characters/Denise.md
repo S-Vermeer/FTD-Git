@@ -1,0 +1,7 @@
+First mentioned in [[Note Pet Cemetery 1]], where she is welcomed to the neighbourhood. 
+
+She got a pie from [[Sunny's Grandma|Helen]] and [[Sunny's Grandpa]] says that they are always a hop skip and a jump away.
+
+The name Denise was not recognized by Sunny.
+
+In the discord the [[FTD-Git/Characters/Stranger|Stranger]] responded to 'does Denise sound familiar' with cow, meaning yes.

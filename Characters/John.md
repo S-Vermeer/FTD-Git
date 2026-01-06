@@ -1,1 +1,15 @@
 Used to live in the [[Trailer]], according to [[Sunny's Grandma]]
+
+Several notes addressed to him were found at the [[Trailer]], namely [[Crawl space Trailer 1]], [[Crawl space Trailer 2]], [[Crawl space Trailer 3]], [[Crawl space Trailer 4]].
+
+John helped build the [[Basement]] according to [[Crawl space Trailer 1]]
+John was supposed to dig the hole for the [[Well]] and watch over the house while [[Sunny's Grandpa]] was away for a week according to [[Crawl space Trailer 2]]
+The [[Well]] was finished when [[Sunny's Grandpa]] came back after a week, despite it being estimated to take 2-3 months according to [[Crawl space Trailer 3]]
+John wasn't seen for a while according to [[Crawl space Trailer 4]]
+
+Sunny hadn't heard of John before this, [[Sunny's Grandpa]] never mentioned him. In the [[Elsewhere]] Sunny saw John, and he and [[Sunny's Grandpa]] seemed to get along super well. When those two were talking, he was wearing Blue Overalls. This was found in the discord chats as described by Sunny.
+
+[[Sunny's Grandpa]] asked [[Michael]] whether he had seen John as he hadn't been seen in a few weeks. He never picked up the cash from helping build the [[Well]] and his car is gone. This was found in [[Neighbours house red roof 1]].
+
+Side note, apparently the people from They might be Giants are also both called John.
+

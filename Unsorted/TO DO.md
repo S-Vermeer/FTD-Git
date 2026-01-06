@@ -1,0 +1,35 @@
+- [ ] Reference Chip Turner's phone number that sent the tractor video that was also posted on insta
+- [ ] [[Mother]] Fill page
+- [ ] [[Sophie Perry]] Perry Check and fill page
+- [ ] [[FTD-Git/Characters/Stranger|Stranger]] Check and fill page
+- [ ] [[Sunny]] Check and fill page
+- [ ] [[Sunny's Aunt]] Fill page
+- [ ] [[Sunny's Grandma]] Check and fill page
+- [ ] [[Sunny's Grandpa]] Check and fill page
+- [ ] [[Phone numbers]] Add phone numbers found (mysterious texts)
+- [ ] Check morse and Ciphers ref ep 1
+- [ ] Check morse and Ciphers ref ep 2
+- [ ] Add morse and Ciphers ref ep 3
+- [ ] Add morse and Ciphers ref ep 4
+- [ ] Add morse and Ciphers ref ep 5
+- [ ] [[Barn]] check and fill page
+- [ ] [[Basement]] Check and fill page
+- [ ] [[Bridge]] check and fill page
+- [ ] [[Burial Hill]] Check and fill page
+- [ ] [[Elsewhere]] Check and fill page
+- [ ] [[Gazebo]] Check and fill page
+- [ ] [[Grandma's house]] Check and fill page
+- [ ] [[Lake]] Check and fill page
+- [ ] [[Mailbox Plot]] Check and fill page
+- [ ] [[Mist]] Check and fill page
+- [ ] [[Neighbours house red roof]] Check and fill page
+- [ ] [[Pet Cemetery]] Check and fill page
+- [ ] [[Trailer]] Check and fill page
+- [ ] [[Trinity Church]] Check and fill page
+- [ ] [[Well]] Check and fill page
+- [ ] Add map based on [[Map.png]]
+- [ ] Process [[Song References]]
+- [ ] [[Backpack]] Check and fill page
+- [ ] [[Lantern]] Check and fill page
+- [ ] Check if other significant items
+- [ ] Process [[Discord - Unsorted]]
