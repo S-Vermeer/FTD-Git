@@ -7,7 +7,7 @@ Description obtained from [[Newspaper Clippings]] which were sent by [[Phone num
 
 Suspected to have written [[Backpack Marcy Todd 1]] and [[Backpack Marcy Todd 2]] due to the reference of a parent of Sophie and the religious references.
 
-[[Sunny's Grandma]] said the name sounded familiar, but that it was a very small town.
+[[Sunny's Grandma - Helen]] said the name sounded familiar, but that it was a very small town.
 
 
 (Phone number sent a link to a tractor vid that was also posted on insta)

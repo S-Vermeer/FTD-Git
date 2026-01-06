@@ -1,6 +1,6 @@
 First mentioned in [[Note Pet Cemetery 1]], where she is welcomed to the neighbourhood. 
 
-She got a pie from [[Sunny's Grandma|Helen]] and [[Sunny's Grandpa]] says that they are always a hop skip and a jump away.
+She got a pie from [[Sunny's Grandma - Helen|Helen]] and [[Sunny's Grandpa - Marvin]] says that they are always a hop skip and a jump away.
 
 The name Denise was not recognized by Sunny.
 

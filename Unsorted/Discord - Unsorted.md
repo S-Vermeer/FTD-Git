@@ -1,6 +1,6 @@
 16-11-2021 (Dates may differ due to time zones)
 !Sunny gets asked about her jean jacket. 
-All I know is that it belonged to my [[Sunny's Grandpa|Grandad]], and my [[Sunny's Grandma|Grandma]] gave it to me as a gift to remember him by.
+All I know is that it belonged to my [[Sunny's Grandpa - Marvin|Grandad]], and my [[Sunny's Grandma - Helen|Grandma]] gave it to me as a gift to remember him by.
 So, yes! It is a hand-me-down
 https://discord.com/channels/909909069345726524/909954145568571453/909979851354701885
 
@@ -56,13 +56,13 @@ https://discord.com/channels/909909069345726524/909954145568571453/9124072089212
 Sunny sends screenshot of instagram user36453628191 with a link to a video of a car driving and messages saying hi, hello, where did you go. The video is the same as the one posted on twitter. Sunny says she thinks there is one more morse code in the video, louder, after the first one. Later another message was sent saying are you coming back.
 https://discord.com/channels/909909069345726524/909954145568571453/912894607828869181
 
-Someone mentioned that the user 364 account made a post with a car and a garage, and asked if the picture looked familiar, and Sunny said it was her [[Sunny's Grandpa|grandfathers]] car.
+Someone mentioned that the user 364 account made a post with a car and a garage, and asked if the picture looked familiar, and Sunny said it was her [[Sunny's Grandpa - Marvin|grandfathers]] car.
 https://discord.com/channels/909909069345726524/909954145568571453/929203937612025857
 
 When asked if she thought the stranger was a ghost of some kind, she said it has a physical form, because she touched it but that she thinks it is something like that. 
 https://discord.com/channels/909909069345726524/909954145568571453/1158151276366934199
 
-also the cat is [[Sunny's Aunt]]s cat, Calli.
+also the cat is [[Sunny's Aunt - Jolene]]s cat, Calli.
 
 Sunny asked her grandma about the stranger, but she didnt believe her and thought she was joking
 https://discord.com/channels/909909069345726524/909954145568571453/1158202673070342144
@@ -1393,7 +1393,7 @@ Marvin (sunny's grandpa)
 Chip Perry 
 Denise 
 Michael 
-Sunny’s Aunt
+Sunny’s Aunt - Jolene
 Ludos
 Florence
 

@@ -3,21 +3,21 @@
 - [ ] [[Sophie Perry]] Perry Check and fill page
 - [ ] [[FTD-Git/Characters/Stranger|Stranger]] Check and fill page
 - [ ] [[Sunny]] Check and fill page
-- [ ] [[Sunny's Aunt]] Fill page
-- [ ] [[Sunny's Grandma]] Check and fill page
-- [ ] [[Sunny's Grandpa]] Check and fill page
+- [x] [[Sunny's Aunt - Jolene]] Fill page
+- [ ] [[Sunny's Grandma - Helen]] Check and fill page
+- [x] [[Sunny's Grandpa - Marvin]] Check and fill page
 - [ ] [[Phone numbers]] Add phone numbers found (mysterious texts)
 - [ ] Check morse and Ciphers ref ep 1
 - [ ] Check morse and Ciphers ref ep 2
 - [ ] Add morse and Ciphers ref ep 3
 - [ ] Add morse and Ciphers ref ep 4
 - [ ] Add morse and Ciphers ref ep 5
-- [ ] [[Barn]] check and fill page
-- [ ] [[Basement]] Check and fill page
-- [ ] [[Bridge]] check and fill page
-- [ ] [[Burial Hill]] Check and fill page
+- [x] [[Barn]] check and fill page
+- [x] [[Basement]] Check and fill page
+- [x] [[Bridge]] check and fill page
+- [x] [[Burial Hill]] Check and fill page
 - [ ] [[Elsewhere]] Check and fill page
-- [ ] [[Gazebo]] Check and fill page
+- [x] [[Gazebo]] Check and fill page
 - [ ] [[Grandma's house]] Check and fill page
 - [ ] [[Lake]] Check and fill page
 - [ ] [[Mailbox Plot]] Check and fill page
@@ -33,3 +33,6 @@
 - [ ] [[Lantern]] Check and fill page
 - [ ] Check if other significant items
 - [ ] Process [[Discord - Unsorted]]
+- [ ] Create timeline
+	- [ ] [[Sunny's Grandpa - Marvin]] has dates of building house
+	- [ ] [[Sophie Perry]] has news article of disappearance

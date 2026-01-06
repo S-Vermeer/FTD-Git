@@ -21,7 +21,7 @@ What should I look at? ^ocb-6
 
 #TS:40:38. Sunny says it has been a while but decided to start filming videos again after their break because things have been happening even after they left their grandmas house. She went home but is being sent some creepy videos and needs to show us the notes they found on their last day there. 
 
-Reads out [[Crawl space Trailer 1]]. Mentions that [[Sunny's Grandpa|Marvin]] is her grandfather. Reads out [[Crawl space Trailer 2]]. Reads out [[Crawl space Trailer 3]]. Reads out [[Crawl space Trailer 4]]. Reads out [[Note Pet Cemetery 1]].  Reads out [[Neighbours house red roof 1]].
+Reads out [[Crawl space Trailer 1]]. Mentions that [[Sunny's Grandpa - Marvin|Marvin]] is her grandfather. Reads out [[Crawl space Trailer 2]]. Reads out [[Crawl space Trailer 3]]. Reads out [[Crawl space Trailer 4]]. Reads out [[Note Pet Cemetery 1]].  Reads out [[Neighbours house red roof 1]].
 
 #TS:43:05. What Sunny's gathered from that is that [[Sophie Perry]] is not the only person who has gone missing. It looks like [[John]] has gone missing as well. She isn't sure about [[Marcy Todd]] but she needs to find out if she is still around so she can talk to her and ask whether Sophie knew John. 
 

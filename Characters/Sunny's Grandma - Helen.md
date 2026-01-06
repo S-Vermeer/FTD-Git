@@ -11,7 +11,7 @@ Great question! I’ve been trying not to stress her out, so I don’t say much.
 https://discord.com/channels/909909069345726524/909954145568571453/909981325879046194
 
 Ghost stories:
-There is this one ghost story my grandma told me when I was younger. Whenever my [[Sunny's Grandpa|Grandfather]] first built the house on this land, she was home alone and went outside to hang up some laundry on the clothes line when she heard a high pitched voice calling out the name “Rosie! Rosie!” She looked and looked and nobody was there.
+There is this one ghost story my grandma told me when I was younger. Whenever my [[Sunny's Grandpa - Marvin|Grandfather]] first built the house on this land, she was home alone and went outside to hang up some laundry on the clothes line when she heard a high pitched voice calling out the name “Rosie! Rosie!” She looked and looked and nobody was there.
 https://discord.com/channels/909909069345726524/909954145568571453/909982929906696222
 
 

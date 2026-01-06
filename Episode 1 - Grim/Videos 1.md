@@ -4,7 +4,7 @@
 #TS: 0:00
 [[FTD-Git/Characters/Sunny|Sunny]] starts to follow the dog randomly ^ftd-1
 Sunny asks for name suggestions ^ocb-1
-[[FTD-Git/Characters/Sunny's Grandma|Sunny's Grandma]] has dogs that can't go together with new dogs
+[[Sunny's Grandma - Helen|Sunny's Grandma - Helen]] has dogs that can't go together with new dogs
 Acres and acres of land, with loads of abandoned barns, perfect for exploring. 
 
 #TS 4:42
@@ -22,7 +22,7 @@ Sunny took a break, went inside. After evaluation, she thinks it might be dumb b
 
 #TS : 6:50
 #choice Should I call for the dog: Yes or No ^sidt-2
-Has been looking for a while, can't find it. Majority says yes. Fun facts: Sunny asked her [[FTD-Git/Characters/Sunny's Aunt|Aunt]] about the dog and she says she sees that dog a lot around here. It's actually a male dog and his name is [[Grimm|Grimm]]. After a bit of calling, he comes running.
+Has been looking for a while, can't find it. Majority says yes. Fun facts: Sunny asked her [[Sunny's Aunt - Jolene|Aunt]] about the dog and she says she sees that dog a lot around here. It's actually a male dog and his name is [[Grimm|Grimm]]. After a bit of calling, he comes running.
 #TS: 7:42
 #choice Follow the Dog: Yes or No ^ftd-2
 Sunny goes to follow the dog again, she is unsure where he is leading her but when she looks away for just a second, he is gone. She is near an abandoned looking [[FTD-Git/Locations/Trailer|Trailer]]

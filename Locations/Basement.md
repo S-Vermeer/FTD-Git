@@ -44,3 +44,24 @@ to it whether she can ask it about it, but no response.
 #TS: 23:34. Was searching in the [[Basement]] during the day to spot anything she missed, sees opened bag of canine carry outs on the ground. These are the dog treats she got for [[Grimm]], they are open and half of them are gone. They don't have any pets in the house.
 
 #TS: 26:29. Discord link + closer look at contents from the kettle from the [[Basement]]. The coupon was for a high school, american school, At home in your spare time - No classes. Diploma awarded. Mail coupon today for free information. There are matches inside.
+
+The docs document is [[Basement Docs]]
+The basement is mentioned in [[Crawl space Trailer 1]] where it is said that [[Sunny's Grandpa - Marvin]] will see [[John]] the next day to help finish up the basement.
+
+The basement was dug by [[Sunny's Grandpa - Marvin]] and his buddies, persumably [[John]] and [[Michael]]
+
+Basement was one of the locations where when asked whether sunny was in danger the stranger reacted 'cow'
+
+"I saw someone bury a large heavy bag it really seemed like someone might have been in there
+*was it in the basement of your grandma’s house?*
+I kept seeing things like that it was apparent someone has been doing this.
+My grandmas house wasn’t even built yet it was still under construction
+In that echo
+There was a pit though
+Like they were digging the basement"
+
+I’m unfortunately not allowed in the actual basement basement due to the black mold growing there.
+
+It’s very possible that there is a body buried there.
+It would have to be under the basement though. The basement is floored and covered with cement on all sides
+

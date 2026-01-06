@@ -100,7 +100,7 @@ Towards the end, Sunny keeps getting set backs, where she will read it but have 
 Most chose Left with the Trailer and the Pet cemetery.
 Which location? Trailer or Pet Cemetery ^sidt-16
 Majority voted for [[Pet Cemetery]]. More glitching
-This is also where Sunny saw the stranger burying her in the [[Elsewhere]]. More glitching. Somebody asked Sunny to count the amount of headstones in the pet cemetery. You can barely see the names on the stones, but they were pets from both [[Sunny's Grandma]]'s family and other people's pets from the neighborhood, which has maybe 3 neighbors. Sunny counts 13 total headstones. 
+This is also where Sunny saw the stranger burying her in the [[Elsewhere]]. More glitching. Somebody asked Sunny to count the amount of headstones in the pet cemetery. You can barely see the names on the stones, but they were pets from both [[Sunny's Grandma - Helen]]'s family and other people's pets from the neighborhood, which has maybe 3 neighbors. Sunny counts 13 total headstones. 
 
 #TS:1:32:47
 Then she shows us where she saw herself get buried, which is a few meters away, but there is a place where the dirt is dug up with a shovel standing up. There is also a rake. Creepy sounds in the back. 

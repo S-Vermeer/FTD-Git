@@ -65,7 +65,7 @@ Should I make a discord?: Yes or No ^sidt-7
 
 #TS: 26:59. Sun is setting while she is approaching the [[Barn]]. Keeps hearing barking, but that is not that unusual around here because there's a lot of dogs in the area and they do have neighbours. Sunny is getting very bad vibes at the barn. Decides to take a break and go somewhere else first. 
 
-#TS: 27:39. Shows the [[FTD-Git/Locations/Gazebo]] and the path that goes around the [[Lake]]. Mentions that her [[Sunny's Grandpa||Grandpa]] dug this lake by hand. 
+#TS: 27:39. Shows the [[FTD-Git/Locations/Gazebo]] and the path that goes around the [[Lake]]. Mentions that her [[Sunny's Grandpa - Marvin||Grandpa]] dug this lake by hand. 
 #TS: 27:53, Sunny is frightened, asking us if we heard that. Goes really quiet and at #TS: 28:15 we hear something high pitched. Sunny asks us to tell her what it is, hoping it is a bird.
 #TS: 28:26. Sees a [[Backpack]] on the [[Bridge]] near the [[FTD-Git/Locations/Gazebo]]. Mentions that it was not here the other day. Takes it with her.
 #TS: 28:32. Quiet, mentions how the vibes are horrible 'out here'. Searched the whole [[Backpack]] and found a very upsetting message. [[Backpack Marcy Todd 1]]. Sunny reads the note to us.

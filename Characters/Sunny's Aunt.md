@@ -1,1 +1,0 @@
-Sunny asked her aunt about the dog, and she said she sees that dog a lot around here. It is a male dog and his name is [[Grimm]]. (TS 6:50)
