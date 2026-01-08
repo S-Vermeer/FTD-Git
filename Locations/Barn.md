@@ -1,11 +1,8 @@
 ---
 type: location
 name: Barn
-relations:
-  - target: "[[link]]"
-    kind: xxxxx
 ---
-
+#juggl 
 
 First location choice, Barn or [[FTD-Git/Locations/Gazebo]]
 There is a person sitting at the barn. Majority votes to go there. The [[FTD-Git/Characters/Stranger|Stranger]] smiles weirdly as Sunny approaches and Sunny bolts.

@@ -1,14 +1,9 @@
 ---
 type: note
 name: Newspaper Clippings
-relations:
-  - target: "[[link]]"
-    kind: xxxxx
-  - target: "[[link]]"
-    kind: xxxx
 ---
 
-
+#juggl 
 Obtained by texting [[Phone numbers#Chip Perry|Chip Perry's Phone Number]], replied with morse code and these clippings.
 
 ![[Newspaper_clipping_preachers_daughter.png]]

@@ -1,13 +1,8 @@
 ---
 type: location
 name: Mailbox Plot
-relations:
-  - target: "[[link]]"
-    kind: xxxxx
-  - target: "[[link]]"
-    kind: xxxx
 ---
-
+#juggl 
 
 Sunny arrives at the Mailboxplot while going to find [[Grimm]] to give him some treats. 
 

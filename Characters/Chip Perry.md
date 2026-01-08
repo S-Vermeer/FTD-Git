@@ -1,23 +1,18 @@
 ---
 type: person
 name: Chip Perry
-relations:
-  - target: "[[Sophie Perry]]"
-    kind: Father
-  - target: "[[Trinity Church]]"
-    kind: Pastor
-  - target: "[[Exodus Docs]]"
-    kind: sent
-  - target: "[[Backpack Marcy Todd 1]]"
-    kind: suspected author
-  - target: "[[Backpack Marcy Todd 2]]"
-    kind: suspected author
-  - target: "[[Newspaper Clippings]]"
-    kind: mentioned in
-  - target: "[[Phone number Chip Perry]]"
-    kind: Owner
+alias:
+  - chip
 ---
+#juggl 
 
+- Father [[Sophie Perry]]
+- Pastor [[Trinity Church]]
+- sent [[Exodus Docs]]
+- suspectedAuthor [[Backpack Marcy Todd 1]]
+- suspectedAuthor [[Backpack Marcy Todd 2]]
+- mentioned [[Newspaper Clippings]]
+- owner [[Phone number Chip Perry]]
 
 Pastor at the [[Trinity Church]].
 Father to [[Sophie Perry]]

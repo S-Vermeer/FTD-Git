@@ -1,14 +1,10 @@
 ---
 type: note
 name: Crawl space Trailer 1
-relations:
-  - target: "[[Trailer]]"
-    kind: found at
-  - target: "[[link]]"
-    kind: xxxx
 ---
 
-
+#juggl 
+- foundAt [[Trailer]]
 Dear [[John]],
 I left cash for you under the front porch matt. Thanks for the help. I'll be at the house tomorrow to help finish up the [[Basement]]. I'll see you then.
 

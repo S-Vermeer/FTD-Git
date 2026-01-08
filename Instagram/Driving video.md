@@ -2,11 +2,8 @@
 type: post
 name: Driving video
 platform: Instagram
-relations:
-  - target: "[[link]]"
-    kind: xxxxx
 ---
-
+#juggl 
 
 https://www.instagram.com/p/CWpDCk-oEJm/
 

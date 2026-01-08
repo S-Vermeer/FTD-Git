@@ -1,12 +1,10 @@
 ---
 type: note
 name: Neighbors house red roof 1
-relations:
-  - target: "[[Neighbours house red roof]]"
-    kind: found at
-  - target: "[[link]]"
-    kind: xxxx
 ---
+
+#juggl 
+- foundAt [[Neighbours house red roof]]
 
 
 Dear [[Michael]],

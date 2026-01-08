@@ -1,13 +1,10 @@
 ---
 type: note
 name: Gazebo 1
-relations:
-  - target: "[[Gazebo]]"
-    kind: found at
-  - target: "[[link]]"
-    kind: xxxx
 ---
 
+#juggl 
+- foundAt [[Gazebo]]
 
 For Florence,
 

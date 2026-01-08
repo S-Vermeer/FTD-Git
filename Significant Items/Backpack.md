@@ -1,13 +1,10 @@
 ---
 type: item
 name: Backpack
-relations:
-  - target: "[[link]]"
-    kind: xxxxx
-  - target: "[[link]]"
-    kind: xxxx
 ---
 
+#juggl 
+- foundAt [[Bridge]]
 
 The backpack that contained [[Backpack Marcy Todd 1]] and [[Backpack Marcy Todd 2]] as well as a flashlight.
 

@@ -1,13 +1,9 @@
 ---
 type: item
 name: Lantern
-relations:
-  - target: "[[link]]"
-    kind: xxxxx
-  - target: "[[link]]"
-    kind: xxxx
 ---
 
+#juggl 
 
 #TS:47:56
 Look around the [[Barn]]. There is a bunch of materials, cinder blocks, a hose etc. Most notable is a [[Lantern]] with a note under it. Sunny says it is a note definitely from the [[FTD-Git/Characters/Stranger|Stranger]]. It says had to go, sorry Sunny. On the back it says be bakc (spelled that way instead of back). It is not the message that Sunny wanted to get but it definitely explains it. It is written in red crayon and with the spelling mistakes it makes it from the stranger.

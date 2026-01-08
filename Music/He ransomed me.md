@@ -1,8 +1,9 @@
 ---
 type: song
 name: He ransomed me
-relations:
-  - target: "[[Basement]]"
-    kind: found in
 ---
+
+#juggl 
+
+- foundAt [[Basement]]
 He ransomed me - J.W. Henderson -> [[Basement]] - https://hymnary.org/hymn/BH1940/382

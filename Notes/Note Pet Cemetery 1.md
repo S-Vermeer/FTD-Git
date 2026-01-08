@@ -1,13 +1,9 @@
 ---
 type: note
 name: Pet Cemetery 1
-relations:
-  - target: "[[Pet Cemetery]]"
-    kind: found at
-  - target: "[[link]]"
-    kind: xxxx
 ---
-
+#juggl 
+- foundAt [[Pet Cemetery]]
 
 Dear [[Denise]],
 

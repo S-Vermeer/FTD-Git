@@ -1,24 +1,21 @@
 ---
 type: person
 name: Helen
-alias: [Sunny's Grandma]
-relations:
-  - target: "[[Sunny's Grandpa - Marvin]]"
-    kind: Married
-  - target: "[[Denise]]"
-    kind: baked pie for
-  - target: "[[Sunny]]"
-    kind: Grandma
-  - target: "[[Trinity Church]]"
-    kind: used to attend
-  - target: "[[Jackie]]"
-    kind: Neighbor
-  - target: "[[Michael]]"
-    kind: Neighbor
-  - target: "[[John]]"
-    kind: Neighbor
+alias:
+  - Sunny's Grandma
+  - Grandma
+
 ---
 
+#juggl 
+  - Married [[Sunny's Grandpa - Marvin]]
+  - Pie [[Denise]]
+  - Grandma [[Sunny]]
+  - attended [[Trinity Church]]
+  - Neighbor [[Jackie]]
+  - Neighbor [[Michael]]
+  - Neighbor [[John]]
+  - residence [[Grandma's house]]
 
 Sunny is staying with her grandma at her house.
 Sunny's Grandma has dogs that can't go together with new dogs. (Said somewhere in the first 5 min)

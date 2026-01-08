@@ -3,28 +3,19 @@ type: person
 name: John
 description: wearing blue overalls
 missing: yes
-relations:
-  - target: "[[Trailer]]"
-    kind: lived at
-  - target: "[[Crawl space Trailer 1]]"
-    kind: received
-  - target: "[[Crawl space Trailer 2]]"
-    kind: received
-  - target: "[[Crawl space Trailer 3]]"
-    kind: received
-  - target: "[[Crawl space Trailer 4]]"
-    kind: received
-  - target: "[[Basement]]"
-    kind: helped build
-  - target: "[[Well]]"
-    kind: helped dig
-  - target: "[[Elsewhere]]"
-    kind: seen in
-  - target: "[[Sunny's Grandpa - Marvin]]"
-    kind: friend/neighbor
-  - target: "[[Sunny's Grandma - Helen]]"
-    kind: Neighbor
 ---
+#juggl 
+
+- residence [[Trailer]]
+- received [[Crawl space Trailer 1]]
+- received [[Crawl space Trailer 2]]
+- received [[Crawl space Trailer 3]]
+- received [[Crawl space Trailer 4]]
+- helpedBuild [[Basement]]
+- helpedDig [[Well]]
+- seenIn: [[Elsewhere]]
+- NeighborAndFriend [[Sunny's Grandpa - Marvin]]
+- Neighbor [[Sunny's Grandma - Helen]]
 
 - [ ] Reference to Johns car?
 

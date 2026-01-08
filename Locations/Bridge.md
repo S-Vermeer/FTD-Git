@@ -1,13 +1,11 @@
 ---
 type: location
 name: Bridge
-relations:
-  - target: "[[Lake]]"
-    kind: across
-  - target: "[[Gazebo]]"
-    kind: goes toward
 ---
+#juggl 
 
+- across [[Lake]]
+- towards [[Gazebo]]
 
 The bridge that crosses the [[Lake]] and connects the land to the [[FTD-Git/Locations/Gazebo]].
 

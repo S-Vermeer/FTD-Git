@@ -2,7 +2,7 @@
 type: location
 name: Trinity Church
 ---
-
+#juggl 
 First mentioned in [[Newspaper Clippings]].
 Pastor used to be [[Chip Perry]]
 

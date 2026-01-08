@@ -1,13 +1,8 @@
 ---
 type: location
 name: Lake
-relations:
-  - target: "[[link]]"
-    kind: xxxxx
-  - target: "[[link]]"
-    kind: xxxx
 ---
-
+#juggl 
 
 The lake surrounds the [[FTD-Git/Locations/Gazebo]] and is crossed by the [[Bridge]].
 The lake was dug by hand by [[Sunny's Grandpa - Marvin]]

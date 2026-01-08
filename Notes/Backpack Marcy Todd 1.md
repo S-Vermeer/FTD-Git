@@ -1,12 +1,11 @@
 ---
 type: note
 name: Backpack Marcy Todd 1
-relations:
-  - target: "[[Backpack]]"
-    kind: found in
-  - target: "[[link]]"
-    kind: xxxx
 ---
+
+
+#juggl 
+- foundAt [[Backpack]]
 
 
 [[Marcy Todd]]- 

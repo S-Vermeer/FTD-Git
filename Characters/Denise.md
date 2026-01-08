@@ -1,14 +1,14 @@
 ---
 type: person
 name: Denise
-relations:
-  - target: "[[Note Pet Cemetery 1]]"
-    kind: received
-  - target: "[[Sunny's Grandma - Helen]]"
-    kind: Neighbor
-  - target: "[[Sunny's Grandpa - Marvin]]"
-    kind: Neighbor
+
 ---
+
+#juggl
+
+  - received [[Note Pet Cemetery 1]]
+  - Neighbor [[Sunny's Grandpa - Marvin]]
+  - Pie [[Sunny's Grandma - Helen]]
 
 - [ ] Where did Denise live? Was there a house at the pet cemetery?  
 First mentioned in [[Note Pet Cemetery 1]], where she is welcomed to the neighbourhood. 

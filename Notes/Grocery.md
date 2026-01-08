@@ -1,13 +1,9 @@
 ---
 type: note
 name: Grocery
-relations:
-  - target: "[[link]]"
-    kind: xxxxx
-  - target: "[[link]]"
-    kind: xxxx
 ---
 
+#juggl 
 
 8 eggs
 4 tomatoes

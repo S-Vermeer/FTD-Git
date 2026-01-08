@@ -1,14 +1,10 @@
 ---
 type: person
 name: Sunny
-relations:
-  - target: "[[Sunny's Grandma - Helen]]"
-    kind: grandchild
-  - target: "[[Sunny's Grandpa - Marvin]]"
-    kind: grandchild
-  - target: "[[Mist]]"
-    kind: went into
 ---
+#juggl 
+- Aunt [[Sunny's Aunt - Jolene]]
+- wentInto [[Mist]]
 
 Sunny is the main character in this adventure. 
 It all starts when Sunny finds a dog and starts to follow them randomly.

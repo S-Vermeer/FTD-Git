@@ -1,13 +1,10 @@
 ---
 type: note
 name: Crawl space Trailer 4
-relations:
-  - target: "[[Trailer]]"
-    kind: found at
-  - target: "[[link]]"
-    kind: xxxx
 ---
 
+#juggl 
+- foundAt [[Trailer]]
 
 Dear [[John]],
 

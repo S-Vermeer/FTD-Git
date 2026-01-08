@@ -1,14 +1,9 @@
 ---
 type: note
 name: Exodus Docs
-relations:
-  - target: "[[link]]"
-    kind: xxxxx
-  - target: "[[link]]"
-    kind: xxxx
 ---
 
-
+#juggl 
 https://docs.google.com/document/d/1-vUWFJazVjUQBnDdNc09EW6Uq16rRQlbPRxgnJLT2x8/edit?tab=t.0
 
 You're on fire - They might be giants - [https://m.youtube.com/watch?v=0gFECzmDLrI&feature=youtu.be](https://m.youtube.com/watch?v=0gFECzmDLrI&feature=youtu.be "https://m.youtube.com/watch?v=0gFECzmDLrI&feature=youtu.be")

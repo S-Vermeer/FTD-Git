@@ -1,48 +1,37 @@
 ---
 type: person
 name: Marvin
-alias: [Sunny's Grandpa]
+alias:
+  - Sunny's Grandpa
+  - Grandpa
 deceased: yes
-relations:
-  - target: "[[Sunny's Grandma - Helen]]"
-    kind: Married
-  - target: "[[Sunny]]"
-    kind: Grandpa
-  - target: "[[Lake]]"
-    kind: dug by hand
-  - target: "[[Grandma's house]]"
-    kind: lived in and built
-  - target: "[[Crawl space Trailer 1]]"
-    kind: Wrote
-  - target: "[[Crawl space Trailer 2]]"
-    kind: Wrote
-  - target: "[[Crawl space Trailer 3]]"
-    kind: Wrote
-  - target: "[[Crawl space Trailer 4]]"
-    kind: Wrote
-  - target: "[[Neighbours house red roof 1]]"
-    kind: Wrote
-  - target: "[[Note Pet Cemetery 1]]"
-    kind: Wrote
-  - target: "[[Image garage car]]"
-    kind: Owner
-  - target: "[[Mailbox Plot]]"
-    kind: used to live at
-  - target: "[[John]]"
-    kind: friend/neighbor
-  - target: "[[Michael]]"
-    kind: friend/neighbor
-  - target: "[[Denise]]"
-    kind: Neighbor
-  - target: "[[Jackie]]"
-    kind: Neighbor
+
 ---
+
+#juggl
+
+- Married [[Sunny's Grandma - Helen]]
+- Neighbor [[Denise]]
+- NeighborAndFriend [[John]]
+- NeighborAndFriend [[Michael]]
+- Neighbor [[Jackie]]
+- Grandpa [[Sunny]]
+- dug [[Lake]]
+- residenceAndBuilt [[Grandma's house]]
+- wrote [[Crawl space Trailer 1]]
+- wrote [[Crawl space Trailer 2]]
+- wrote [[Crawl space Trailer 3]]
+- wrote [[Crawl space Trailer 4]]
+- wrote [[Neighbours house red roof 1]]
+- wrote [[Note Pet Cemetery 1]]
+- owner [[Image garage car]]
+- usedToLiveAt [[Mailbox Plot]]
+
 
 Name: Marvin
 Dug the [[Lake]] by hand.
 Also built [[Grandma's house]] himself
 Married to [[Sunny's Grandma - Helen]]
-
 
 Grandpa lake
 He dug it forever ago. He built the house I’m staying in. He and his buddies all got together and dug the [[Basement]] and built most of the [[Barn|barns]] on this land

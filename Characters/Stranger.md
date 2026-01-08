@@ -1,10 +1,10 @@
 ---
 type: entity
 name: Stranger
-relations:
-  - target: "[[Barn]]"
-    kind: first seen at
 ---
+#juggl 
+
+- firstSeenAt [[Barn]]
 
 The stranger first shows up, sitting outside the [[Barn]]. Due to it smiling weirly, Sunny gets scared and bolts. When Sunny returns to go to the Gazebo, the Stranger has disappeared. 
 

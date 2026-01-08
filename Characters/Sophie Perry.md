@@ -6,24 +6,19 @@ length: 5'1
 weight: 125-140 lb
 description: Last seen wearing a light pink sweater and her Father's jean jacket. She has brown eyes and shoulder length brown hair.
 missing: yes
-relations:
-  - target: "[[Chip Perry]]"
-    kind: daughter
-  - target: "[[Newspaper Clippings]]"
-    kind: mentioned in
-  - target: "[[Hendrick's Convenient Store]]"
-    kind: worked at
-  - target: "[[Morse 1]]"
-    kind: referenced
-  - target: "[[Backpack Marcy Todd 1]]"
-    kind: mentioned in
-  - target: "[[Backpack Marcy Todd 2]]"
-    kind: mentioned in
-  - target: "[[Marcy Todd]]"
-    kind: friends maybe lovers
-  - target: "[[Bridge]]"
-    kind: seen at
+alias:
+  - sophie
 ---
+#juggl 
+
+  - mentioned [[Newspaper Clippings]]
+  - work [[Hendrick's Convenient Store]]
+  - referenced [[Morse 1]]
+  - mentioned [[Backpack Marcy Todd 1]]
+  - mentioned [[Backpack Marcy Todd 2]]
+  - friendsMaybeLovers [[Marcy Todd]]
+  -  seenAt [[Bridge]]
+
 
 todo:
 - [ ] Morse code basement sophie in tags

@@ -2,12 +2,9 @@
 type: post
 name: Garage Car
 platform: Instagram
-relations:
-  - target: "[[link]]"
-    kind: xxxxx
-  - target: "[[link]]"
-    kind: xxxx
 ---
+#juggl 
+
 https://www.instagram.com/p/CYcxg8zOzXT/
 
 Caption: At least youR safe

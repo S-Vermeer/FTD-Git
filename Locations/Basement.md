@@ -1,11 +1,8 @@
 ---
 type: location
 name: Basement
-relations:
-  - target: "[[link]]"
-    kind: xxxxx
 ---
-
+#juggl 
 Sunny is first seen going to the basement because she is thirsty but the fridge with the water in it is in the basement, which she describes as very scary.
 
 She starts explaining about how creepy the basement is, while looking at a doll, and when she turns around to point something else out, the [[FTD-Git/Characters/Stranger|Stranger]] is there so she runs and locks herself in the downstairs bathroom. When she emerges, the door is closed so she believes it is gone, then a bell goes off, the screen distorts and the [[FTD-Git/Characters/Stranger|Stranger]] is peeking behind the doorpost.
