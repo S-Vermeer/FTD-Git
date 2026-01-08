@@ -1,3 +1,14 @@
+---
+type: location
+name: Grandma's house
+relations:
+  - target: "[[Basement]]"
+    kind: contains
+  - target: "[[link]]"
+    kind: xxxx
+---
+
+
 Contains the [[Basement]]
 Was built by [[Sunny's Grandpa - Marvin]]
 

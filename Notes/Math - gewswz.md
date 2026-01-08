@@ -1,3 +1,14 @@
+---
+type: note
+name: Math
+relations:
+  - target: "[[link]]"
+    kind: xxxxx
+  - target: "[[link]]"
+    kind: xxxx
+---
+
+
 4 + 4   |  2 x 2
 1 + 3   |  5 x 11
 2 + 1   |  3 x 6 - 1
@@ -11,6 +22,6 @@
 
 "Gewswz"
 
-#cipher Vigenere cipher with codeword [[Chip Perry|Chip]] leads to Exodus. When this is sent to the [[Phone numbers#Chip Perry|Chip]] phone number, you get a  
+#cipher Vigenere cipher with codeword [[Chip Perry|Chip]] leads to Exodus. When this is sent to the [[Phone number Chip Perry]] = phone number, you get a  
 
 ![[gewswz.png]]

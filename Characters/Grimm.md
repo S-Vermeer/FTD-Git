@@ -1,3 +1,11 @@
+---
+type: animal
+name: Grim
+relations:
+  - target: "[[link]]"
+    kind: xxxxx
+---
+
 Grimm is the best boy, Played by the best girl, Lexi, may she rest in peace.
 We first see Grimm in the opening of our story, together with another dog. Sunny goes to follow Grimm, to explore the land. 
 

@@ -1,3 +1,12 @@
+---
+type: note
+name: Basement Docs
+relations:
+  - target: "[[Basement]]"
+    kind: found at
+  - target: "[[link]]"
+    kind: xxxx
+---
 
 [https://docs.google.com/document/d/1-1KN6bGFspwwru7-8VrTrBS4HUFZR_gSrwQtw7wFNbw/edit](https://docs.google.com/document/d/1-1KN6bGFspwwru7-8VrTrBS4HUFZR_gSrwQtw7wFNbw/edit "https://docs.google.com/document/d/1-1KN6bGFspwwru7-8VrTrBS4HUFZR_gSrwQtw7wFNbw/edit")
 

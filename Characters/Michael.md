@@ -1,3 +1,19 @@
+---
+type: person
+name: Michael
+relations:
+  - target: "[[Neighbours house red roof 1]]"
+    kind: received
+  - target: "[[Jackie]]"
+    kind: Married
+  - target: "[[Neighbours house red roof]]"
+    kind: lived/lives at
+  - target: "[[Sunny's Grandpa - Marvin]]"
+    kind: friend/neighbor
+  - target: "[[Sunny's Grandma - Helen]]"
+    kind: Neighbor
+---
+
 First mentioned in [[Neighbours house red roof 1]].
 He was asked whether he remembered [[John]] as he hadn't been heard from in a few weeks. To let [[Sunny's Grandpa - Marvin]] know if he saw his car coming down the road. And that he is always welcome at their house.
 

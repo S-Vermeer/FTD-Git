@@ -1,3 +1,14 @@
+---
+type: note
+name: Gazebo 1
+relations:
+  - target: "[[Gazebo]]"
+    kind: found at
+  - target: "[[link]]"
+    kind: xxxx
+---
+
+
 For Florence,
 
 Sapphire eyes burning through my skin.

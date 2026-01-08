@@ -1,3 +1,13 @@
+---
+type: location
+name: Burial Hill
+relations:
+  - target: "[[link]]"
+    kind: xxxxx
+  - target: "[[link]]"
+    kind: xxxx
+---
+
 Right next to the [[Pet Cemetery]]
 
 The hill where Sunny saw the [[FTD-Git/Characters/Stranger|Stranger]] burry her in the [[Elsewhere]]

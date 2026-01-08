@@ -1,3 +1,14 @@
+---
+type: note
+name: Grocery
+relations:
+  - target: "[[link]]"
+    kind: xxxxx
+  - target: "[[link]]"
+    kind: xxxx
+---
+
+
 8 eggs
 4 tomatoes
 3 breads
@@ -11,6 +22,6 @@ Onions
 
 Over the letters that spell out Sophie, there are dots.
 
-(843) 904- 5517 -> [[Phone numbers#Chip Perry|Chip's phone number]] that gave us the "There are 12 of Us " morse code message as well as the newspaper clipping
+(843) 904- 5517 -> [[Phone number Chip Perry]] that gave us the "There are 12 of Us " morse code message as well as the newspaper clipping
 
 ![[Grocery_note.png]]

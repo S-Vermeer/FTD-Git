@@ -1,3 +1,15 @@
+---
+type: person
+name: Sunny
+relations:
+  - target: "[[Sunny's Grandma - Helen]]"
+    kind: grandchild
+  - target: "[[Sunny's Grandpa - Marvin]]"
+    kind: grandchild
+  - target: "[[Mist]]"
+    kind: went into
+---
+
 Sunny is the main character in this adventure. 
 It all starts when Sunny finds a dog and starts to follow them randomly.
 Sunny has a [[Sunny's Grandma - Helen||Grandma]] who she is staying with at the start of the story. She goes to follow the dog because there are acres and acres of land, with loads of abandoned barns perfect for exploring.

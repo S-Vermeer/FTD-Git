@@ -1,3 +1,34 @@
+---
+type: person
+name: John
+description: wearing blue overalls
+missing: yes
+relations:
+  - target: "[[Trailer]]"
+    kind: lived at
+  - target: "[[Crawl space Trailer 1]]"
+    kind: received
+  - target: "[[Crawl space Trailer 2]]"
+    kind: received
+  - target: "[[Crawl space Trailer 3]]"
+    kind: received
+  - target: "[[Crawl space Trailer 4]]"
+    kind: received
+  - target: "[[Basement]]"
+    kind: helped build
+  - target: "[[Well]]"
+    kind: helped dig
+  - target: "[[Elsewhere]]"
+    kind: seen in
+  - target: "[[Sunny's Grandpa - Marvin]]"
+    kind: friend/neighbor
+  - target: "[[Sunny's Grandma - Helen]]"
+    kind: Neighbor
+---
+
+- [ ] Reference to Johns car?
+
+
 Used to live in the [[Trailer]], according to [[Sunny's Grandma - Helen]]
 
 Several notes addressed to him were found at the [[Trailer]], namely [[Crawl space Trailer 1]], [[Crawl space Trailer 2]], [[Crawl space Trailer 3]], [[Crawl space Trailer 4]].

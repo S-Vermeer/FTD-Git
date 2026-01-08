@@ -1,3 +1,23 @@
+---
+type: person
+name: Marcy Todd
+description: piercings
+relations:
+  - target: "[[Backpack]]"
+    kind: suspected owner
+  - target: "[[Sophie Perry]]"
+    kind: friends maybe lovers
+  - target: "[[Elsewhere]]"
+    kind: seen in
+  - target: "[[Backpack Marcy Todd 1]]"
+    kind: received
+  - target: "[[Backpack Marcy Todd 2]]"
+    kind: received
+  - target: "[[Bridge]]"
+    kind: seen at
+---
+
+
 First mentioned in [[Backpack Marcy Todd 1]] and [[Backpack Marcy Todd 2]] notes that were found at a [[Backpack]] at the [[Bridge]]. Sunny suspects that the backpack probably belonged to Marcy.
 
 The notes revealed they were in contact with [[Sophie Perry]], much to the dislike of a parent of Sophie, probably [[Chip Perry]]. According to them Marcy was 'skilled in the ways of the devil' and 'influencing' Sophie to give in to sin.

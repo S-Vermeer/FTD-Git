@@ -1,3 +1,8 @@
+---
+type: location
+name: Trinity Church
+---
+
 First mentioned in [[Newspaper Clippings]].
 Pastor used to be [[Chip Perry]]
 

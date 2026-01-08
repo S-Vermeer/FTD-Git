@@ -1,3 +1,11 @@
+---
+type: entity
+name: Stranger
+relations:
+  - target: "[[Barn]]"
+    kind: first seen at
+---
+
 The stranger first shows up, sitting outside the [[Barn]]. Due to it smiling weirly, Sunny gets scared and bolts. When Sunny returns to go to the Gazebo, the Stranger has disappeared. 
 
 When Sunny goes to step foot into the [[FTD-Git/Locations/Gazebo]], the Stranger appears behind her and says "I wouldn't step foot in that if I were you." before disappearing again. (TS 5:58)

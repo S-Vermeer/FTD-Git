@@ -30,7 +30,7 @@ Sunny says that it all doesn't really make sense to her, that it seems way too c
 
 #TS:1:16:17
 Sunny is standing near the [[Bridge]]. Says that she  keeps hearing this whistling noise coming from the woods. There is some weird glitching happening. We hear the whistle, and it's the same one the [[FTD-Git/Characters/Stranger|Stranger]] made when distracting the mailman to steal the bag.
-The [[FTD-Git/Characters/Stranger|Stranger]] is standing on the other side of the [[Lake]]. The Lantern appears at Sunny's feet. When she looks back up, the stranger is gone.
+The [[FTD-Git/Characters/Stranger|Stranger]] is standing on the other side of the [[Lake]]. The [[Lantern]] appears at Sunny's feet. When she looks back up, the stranger is gone.
 
 #TS:1:16:38
 There is some weird glitching happening. The [[FTD-Git/Characters/Stranger|Stranger]] is just standing near the trees. When Sunny goes down to look, it is no longer there. 
@@ -42,7 +42,7 @@ Another multiple whistles, near a barn. More glitching. The [[FTD-Git/Characters
 Sunny says she got the golf cart because she didn't feel comfortable just being on foot while it's getting dark outside. She keeps hearing the whistle. Says she is going to try to hear it out. Brought pepper spray. Says she doesn't know if pepper spray works on supernatural inhuman beings. Doesn't think it can get any worse than how it's gotten.
 
 #TS:1:18:16
-Is approaching the [[Barn]] by golf cart. Sees a light coming from it. There is some glitching. Says it's the lantern. More glitching. The [[FTD-Git/Characters/Stranger|Stranger]] is standing there with the lantern. It's eyse are still white. It is trying to speak but only creepy distorted sounds come out.  Sunny speeds away. The second Sunny started getting home, the light on the golf cart turned off.  Finds flashlight, and when she points it, she points it directly at the [[FTD-Git/Characters/Stranger|Stranger]] with white eyes. She runs away.
+Is approaching the [[Barn]] by golf cart. Sees a light coming from it. There is some glitching. Says it's the [[Lantern]]. More glitching. The [[FTD-Git/Characters/Stranger|Stranger]] is standing there with the lantern. It's eyse are still white. It is trying to speak but only creepy distorted sounds come out.  Sunny speeds away. The second Sunny started getting home, the light on the golf cart turned off.  Finds flashlight, and when she points it, she points it directly at the [[FTD-Git/Characters/Stranger|Stranger]] with white eyes. She runs away.
 
 #TS:1:19:32
 Sunny is seen with tear streaks. Saying she is scared. A lot of people have been telling her the [[FTD-Git/Characters/Stranger|Stranger]] is still trustworthy but she promises us it is not. A glitch happens. She says that the Stranger buried her, that she saw it happening in the [[Elsewhere]]. It was one of the many visions she had, and she says that we have to believe her or she is going to have to do this alone. 
@@ -77,11 +77,11 @@ Some glitching. Someone said that it feels like the [[FTD-Git/Characters/Strange
 
 #TS:1:26:00
 Sees the [[Mist]]. Says that's the thing that took her.
-Someone suggested summoning the stranger to talk to explain itself. There is a whistle and a glitch and when she turns around, the [[FTD-Git/Characters/Stranger|Stranger]] is standing there with the lantern turned on. Sunny says she wants to talk. The stranger's eyes are still white. The stranger doesn't respond. Sunny says that she knows what it did, that she saw it burying her on the hill.  More glitching. Sunny says that the crazy tree lady showed it to her. Sunny questions why its eyes are white and asks where [[Grimm]] is. Says that when it went missing, so did grimm. More glitching, and the Stranger keeps covering it's mouth. Sunny says she needs to know what happened to Grimm, whether it knows.
+Someone suggested summoning the stranger to talk to explain itself. There is a whistle and a glitch and when she turns around, the [[FTD-Git/Characters/Stranger|Stranger]] is standing there with the [[Lantern]] turned on. Sunny says she wants to talk. The stranger's eyes are still white. The stranger doesn't respond. Sunny says that she knows what it did, that she saw it burying her on the hill.  More glitching. Sunny says that the crazy tree lady showed it to her. Sunny questions why its eyes are white and asks where [[Grimm]] is. Says that when it went missing, so did grimm. More glitching, and the Stranger keeps covering it's mouth. Sunny says she needs to know what happened to Grimm, whether it knows.
 
 #TS:1:27:21
 #morse  starts.
-Sunny questions if it can nod or shake its head, whether it can say something or give a motion with its head. More glitching. More #morse. Sunny says that if it refuses to explain itself than she has no choice but to not trust it.  That she wanted to. It puts the lantern down, the glitching stops, and it disappears.
+Sunny questions if it can nod or shake its head, whether it can say something or give a motion with its head. More glitching. More #morse. Sunny says that if it refuses to explain itself than she has no choice but to not trust it.  That she wanted to. It puts the [[Lantern]] down, the glitching stops, and it disappears.
 
 #TS:1:28:03
 Sunny says that last night was stressful, just like the last few weeks have been incredibly stressful and scary. That is why they don't want to focus too much on the stranger today, but wants to do a classic adventure like old times for some sense of normalcy to try to get back to the old routine and maybe look for [[Grimm]] today. 
@@ -108,7 +108,7 @@ She finds a note in the dirt. [[Burial Hill 1]]
 
 #TS:1:34:02
 Which way? Trailer or Other locations ^sidt-17
-Most voted for trailer. More glitching. Last time she was here there was whispering and calling her name. She sees the lantern with a piece of bloody paper beneath it with dogs on it. Sunny doesn't like the implication of the blood so she decides to look for clues somewhere else. 
+Most voted for trailer. More glitching. Last time she was here there was whispering and calling her name. She sees the [[Lantern]] with a piece of bloody paper beneath it with dogs on it. Sunny doesn't like the implication of the blood so she decides to look for clues somewhere else. 
 
 #TS:1:35:28
 [[Bridge]] where Sunny saw [[Sophie Perry]] and [[Marcy Todd]] in the [[Elsewhere]]. They were sitting on the bridge together and it looked pristine, like it was just built.

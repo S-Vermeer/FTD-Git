@@ -1,3 +1,43 @@
+---
+type: person
+name: Marvin
+alias: [Sunny's Grandpa]
+deceased: yes
+relations:
+  - target: "[[Sunny's Grandma - Helen]]"
+    kind: Married
+  - target: "[[Sunny]]"
+    kind: Grandpa
+  - target: "[[Lake]]"
+    kind: dug by hand
+  - target: "[[Grandma's house]]"
+    kind: lived in and built
+  - target: "[[Crawl space Trailer 1]]"
+    kind: Wrote
+  - target: "[[Crawl space Trailer 2]]"
+    kind: Wrote
+  - target: "[[Crawl space Trailer 3]]"
+    kind: Wrote
+  - target: "[[Crawl space Trailer 4]]"
+    kind: Wrote
+  - target: "[[Neighbours house red roof 1]]"
+    kind: Wrote
+  - target: "[[Note Pet Cemetery 1]]"
+    kind: Wrote
+  - target: "[[Image garage car]]"
+    kind: Owner
+  - target: "[[Mailbox Plot]]"
+    kind: used to live at
+  - target: "[[John]]"
+    kind: friend/neighbor
+  - target: "[[Michael]]"
+    kind: friend/neighbor
+  - target: "[[Denise]]"
+    kind: Neighbor
+  - target: "[[Jackie]]"
+    kind: Neighbor
+---
+
 Name: Marvin
 Dug the [[Lake]] by hand.
 Also built [[Grandma's house]] himself

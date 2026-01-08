@@ -1,3 +1,14 @@
+---
+type: location
+name: Bridge
+relations:
+  - target: "[[Lake]]"
+    kind: across
+  - target: "[[Gazebo]]"
+    kind: goes toward
+---
+
+
 The bridge that crosses the [[Lake]] and connects the land to the [[FTD-Git/Locations/Gazebo]].
 
 #TS: 28:26. Sees a [[Backpack]] on the bridge. Mentions that it was not here the other day. Takes it with her.
@@ -7,7 +18,7 @@ Approaches her next stop, the [[FTD-Git/Locations/Gazebo]]. Stops near the [[Bri
 
 #TS:1:16:17
 Sunny is standing near the [[Bridge]]. Says that she  keeps hearing this whistling noise coming from the woods. There is some weird glitching happening. We hear the whistle, and it's the same one the [[FTD-Git/Characters/Stranger|Stranger]] made when distracting the mailman to steal the bag.
-The [[FTD-Git/Characters/Stranger|Stranger]] is standing on the other side of the [[Lake]]. The Lantern appears at Sunny's feet. When she looks back up, the stranger is gone.
+The [[FTD-Git/Characters/Stranger|Stranger]] is standing on the other side of the [[Lake]]. The [[Lantern]] appears at Sunny's feet. When she looks back up, the stranger is gone.
 
 When Sunny was in the elsewhere she saw [[Marcy Todd]] and [[Sophie Perry]] on the bridge, laughing and talking, but they couldn't hear or see them. The bridge looked pristine, like it was just built.
 

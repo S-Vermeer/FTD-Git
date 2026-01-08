@@ -1,3 +1,14 @@
+---
+type: location
+name: Gazebo
+relations:
+  - target: "[[FTD-Git/Characters/Stranger|Stranger]]"
+    kind: warned at
+  - target: "[[link]]"
+    kind: xxxx
+---
+
+
 It is located over the [[Bridge]] over the [[Lake]]
 
 First location choice: Gazebo or [[Barn]], majority chooses barn.
