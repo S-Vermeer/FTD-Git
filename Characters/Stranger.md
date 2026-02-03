@@ -1,7 +1,9 @@
 ---
-type: entity
-name: Stranger
+type: person
+name: The Stranger
 ---
+
+
 #juggl 
 
 - firstSeenAt [[Barn]]

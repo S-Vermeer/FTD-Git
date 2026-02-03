@@ -4,5 +4,4 @@ name: Mist
 ---
 #juggl 
 
-
-  - unlocks [[Elsewhere]]
+- unlocks [[Elsewhere]]

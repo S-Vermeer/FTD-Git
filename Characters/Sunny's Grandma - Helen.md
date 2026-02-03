@@ -8,14 +8,14 @@ alias:
 ---
 
 #juggl 
-  - Married [[Sunny's Grandpa - Marvin]]
-  - Pie [[Denise]]
-  - Grandma [[Sunny]]
-  - attended [[Trinity Church]]
-  - Neighbor [[Jackie]]
-  - Neighbor [[Michael]]
-  - Neighbor [[John]]
-  - residence [[Grandma's house]]
+- Married [[Sunny's Grandpa - Marvin]]
+- Pie [[Denise]]
+- Grandma [[Sunny]]
+- attended [[Trinity Church]] 
+- Neighbor [[Jackie]]
+- Neighbor [[Michael]]
+- Neighbor [[John]]
+- residence [[Grandma's house]]
 
 Sunny is staying with her grandma at her house.
 Sunny's Grandma has dogs that can't go together with new dogs. (Said somewhere in the first 5 min)

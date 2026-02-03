@@ -67,7 +67,7 @@ Should I make a discord?: Yes or No ^sidt-7
 
 #TS: 27:39. Shows the [[FTD-Git/Locations/Gazebo]] and the path that goes around the [[Lake]]. Mentions that her [[Sunny's Grandpa - Marvin||Grandpa]] dug this lake by hand. 
 #TS: 27:53, Sunny is frightened, asking us if we heard that. Goes really quiet and at #TS: 28:15 we hear something high pitched. Sunny asks us to tell her what it is, hoping it is a bird.
-#TS: 28:26. Sees a [[Backpack]] on the [[Bridge]] near the [[FTD-Git/Locations/Gazebo]]. Mentions that it was not here the other day. Takes it with her.
+#TS: 28:26. Sees a [[Backpack]] on the [[Bridge]] near the [[Gazebo]]. Mentions that it was not here the other day. Takes it with her.
 #TS: 28:32. Quiet, mentions how the vibes are horrible 'out here'. Searched the whole [[Backpack]] and found a very upsetting message. [[Backpack Marcy Todd 1]]. Sunny reads the note to us.
 #TS: 29:23. It is getting dark, and she doesn't feel comfortable being out here for too much longer, but sunny asks us in an open chat box whether there is anything else she should do. In the caption she also says that there is another note in the [[Backpack]]. ^ocb-5
 #TS: 29:34. Has a note in her hand. Says how it sounds nuts but she would feel a lot safer if the stranger would show up.
