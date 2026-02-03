@@ -1,0 +1,14 @@
+🐄 = stranger/yes
+❌ = danger 
+🚫 = no/not
+✝️🎀 = sophie
+🌫️🤩 = mist 
+🏠 = helen/sunny's home 
+🚬🧸 = marcy
+🔎 = search
+☀️ = sunny 
+🌲 = mother
+🌑 = elsewhere
+🔋 = stranger is ready to talk 
+🪫 = stranger is taking a break
+🫘 = our universal reacting emoji for the stranger<3
