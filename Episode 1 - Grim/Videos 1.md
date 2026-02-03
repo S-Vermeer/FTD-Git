@@ -11,14 +11,14 @@ Acres and acres of land, with loads of abandoned barns, perfect for exploring.
 First #choice except follow the dog yes or no: [[FTD-Git/Locations/Gazebo|Gazebo]] or [[FTD-Git/Locations/Barn|Barn]]. ^lc-1
 There is a person sitting at the barn. 
 Majority voted [[Barn]]. Person is unknown to Sunny. She asks the next #choice Should I talk to them: Yes or No ^sidt-1
-Majority voted yes, she says hello, excuse me, the [[FTD-Git/Characters/Stranger|Stranger]] smiles weirdly and Sunny bolts. The stranger stays seated, still smiling.
+Majority voted yes, she says hello, excuse me, the [[The Stranger|The Stranger]] smiles weirdly and Sunny bolts. The stranger stays seated, still smiling.
 
 #TS: 5:45
 Little time jump, The stranger has left. Sunny goes to look at the [[FTD-Git/Locations/Gazebo]]. 
-Backstory for the gazebo: Parents got married there. It's very old now. Its {little tech thing here, maybe sayings its oak}. #TS: 5:58 [[FTD-Git/Characters/Stranger|Stranger]] appears behind Sunny and says "I wouldn't step foot in that if I were you." You can hear Sunny stepping on something wood and freezing. When Sunny turns around the stranger is gone. #TS: 6:03. Sunny is spooked and goes to look for the black dog again.
+Backstory for the gazebo: Parents got married there. It's very old now. Its {little tech thing here, maybe sayings its oak}. #TS: 5:58 [[The Stranger|The Stranger]] appears behind Sunny and says "I wouldn't step foot in that if I were you." You can hear Sunny stepping on something wood and freezing. When Sunny turns around the stranger is gone. #TS: 6:03. Sunny is spooked and goes to look for the black dog again.
 
 #TS: 6:30
-Sunny took a break, went inside. After evaluation, she thinks it might be dumb but she wants to go looking for the dog. She wants to go explore the [[Barn]] and see if she can get ahold of the [[FTD-Git/Characters/Stranger|Stranger]] again and ask them why they shouldn't go to the [[FTD-Git/Locations/Gazebo]]. She's just accepting something weird is going on here.
+Sunny took a break, went inside. After evaluation, she thinks it might be dumb but she wants to go looking for the dog. She wants to go explore the [[Barn]] and see if she can get ahold of the [[The Stranger|The Stranger]] again and ask them why they shouldn't go to the [[FTD-Git/Locations/Gazebo]]. She's just accepting something weird is going on here.
 
 #TS : 6:50
 #choice Should I call for the dog: Yes or No ^sidt-2
@@ -49,9 +49,9 @@ Some more pieces to an old tractor are found after saying nope to the spider.
 #TS 11:50 Near the barn. "Hello, I'd like to talk to you about the gazebo and Grimm" met with radio silence.
 Sunny ends up going home because nothing was happening at the barn. Sunny is thirsty but the fridge with the water in it is in the [[FTD-Git/Locations/Basement|Basement]] and its very scary and she doesn't want to go down there. 
 #choice Should I go?: Yes or No ^sidt-3
-#TS 12:17 Majority voted yes. She quickly goes to grab the water, starts explaining about how creepy it is while looking at a doll, turns around to point something else out and there is the [[FTD-Git/Characters/Stranger|Stranger]] so she runs and locks herself in the downstairs bathroom. 
+#TS 12:17 Majority voted yes. She quickly goes to grab the water, starts explaining about how creepy it is while looking at a doll, turns around to point something else out and there is the [[The Stranger|The Stranger]] so she runs and locks herself in the downstairs bathroom. 
 #choice What should I do?: Talk to it or Accept my new home ^sidt-4
-#TS 12:51 Opened the door, thinks it has travelled because the door is closed now. Bell goes off in the other room. #weird-tech some weird error thing distorts the screen multiple times over the next few seconds. The [[FTD-Git/Characters/Stranger|Stranger]] is peeking behind the doorpost.
+#TS 12:51 Opened the door, thinks it has travelled because the door is closed now. Bell goes off in the other room. #weird-tech some weird error thing distorts the screen multiple times over the next few seconds. The [[The Stranger|The Stranger]] is peeking behind the doorpost.
 "Who are you" "I am what they have (not) / (lost)"
 "Who is they" "I am here and they have left"
 "What are you" "A warning"
@@ -61,12 +61,12 @@ Sunny leaves, no longer feels safe in this house. Heard some weird beeping noise
 for questions that she will ask it tomorrow if she can get ahold of it.
 OCB over video with the morse code in the background #choice Any ideas? ^ocb-4
 #TS 14:55
-Was in the kitchen to make herself a snack and the [[FTD-Git/Characters/Stranger|Stranger]] is just standing there outside the window. Has been waving at her. #choice Should I go talk to it? ^sidt-5
+Was in the kitchen to make herself a snack and the [[The Stranger|The Stranger]] is just standing there outside the window. Has been waving at her. #choice Should I go talk to it? ^sidt-5
 #TS 15:27
-Sunny approaches the [[FTD-Git/Characters/Stranger|Stranger]] and asks it if it wants to talk to her because it was waving. Stranger responds with "Did I scare you?" Sunny asks "Yesterday?" in reply. Stranger confirms. Sunny replies "Yes, very badly." The stranger tilts its head down at this. Sunny asks whether it is okay, and whether it has a name. It shakes its head in reply. Sunny asks "Would you like one" and it shakes its head. It says "Go check the [[Basement]]." Sunny asks "Are you going to scare me again". The stranger replies "Not on purpose."
+Sunny approaches the [[The Stranger|The Stranger]] and asks it if it wants to talk to her because it was waving. Stranger responds with "Did I scare you?" Sunny asks "Yesterday?" in reply. Stranger confirms. Sunny replies "Yes, very badly." The stranger tilts its head down at this. Sunny asks whether it is okay, and whether it has a name. It shakes its head in reply. Sunny asks "Would you like one" and it shakes its head. It says "Go check the [[Basement]]." Sunny asks "Are you going to scare me again". The stranger replies "Not on purpose."
 #TS 16:20
 Sunny goes to their room because they are, in their own words, a coward. But they know they have to go, and they know if they left the choice to us we would tell them to go. So they will after they mentally prepare themselves. 
-After an hour of mental preparation, they go to the basement. The lights go off in the hallway, and when they turn the corner we see the [[FTD-Git/Characters/Stranger|Stranger]] turning off the lights for the main room of the [[Basement]]. Once Sunny enters the Basement, the Stranger is gone. Sunny turns around, mentions a photo that always creeps her out #TS 17:15, turns back around while turning on the lights and the Stranger is sitting in the chair.
+After an hour of mental preparation, they go to the basement. The lights go off in the hallway, and when they turn the corner we see the [[The Stranger|The Stranger]] turning off the lights for the main room of the [[Basement]]. Once Sunny enters the Basement, the Stranger is gone. Sunny turns around, mentions a photo that always creeps her out #TS 17:15, turns back around while turning on the lights and the Stranger is sitting in the chair.
 Sunny says "Hi, where am I looking". The Stranger has a staring contest with Sunny and then simply replies: "Yes :)"
 
 End of episode 1.

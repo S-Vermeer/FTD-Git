@@ -16,6 +16,7 @@ missing: yes
 - seenIn: [[Elsewhere]]
 - NeighborAndFriend [[Sunny's Grandpa - Marvin]]
 - Neighbor [[Sunny's Grandma - Helen]]
+- owned [[Pet Cemetery]]
 
 - [ ] Reference to Johns car?
 

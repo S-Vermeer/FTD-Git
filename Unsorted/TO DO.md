@@ -1,7 +1,7 @@
 - [ ] Reference Chip Turner's phone number that sent the tractor video that was also posted on insta
 - [ ] [[Mother]] Fill page
 - [ ] [[Sophie Perry]] Perry Check and fill page
-- [ ] [[FTD-Git/Characters/Stranger|Stranger]] Check and fill page
+- [ ] [[The Stranger|The Stranger]] Check and fill page
 - [ ] [[Sunny]] Check and fill page
 - [x] [[Sunny's Aunt - Jolene]] Fill page
 - [ ] [[Sunny's Grandma - Helen]] Check and fill page

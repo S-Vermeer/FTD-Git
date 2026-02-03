@@ -28,7 +28,7 @@ According to the note, they have not been in [[Trinity Church|church]] to seek f
 Sunny's grandma does not remember a Marcy Todd.
 
 The emojis for Marcy are 🚬🧸
-According to the [[FTD-Git/Characters/Stranger|Stranger]], it didn't talk to Marcy, but it did watch marcy and Marcy went onto the bridge. In https://discord.com/channels/909909069345726524/909954145568571453/1161164234948890775 it is described that the stranger hasn't heard Marcy while it heard [[Sophie Perry]] singing and calling for Marcy. 
+According to the [[The Stranger|The Stranger]], it didn't talk to Marcy, but it did watch marcy and Marcy went onto the bridge. In https://discord.com/channels/909909069345726524/909954145568571453/1161164234948890775 it is described that the stranger hasn't heard Marcy while it heard [[Sophie Perry]] singing and calling for Marcy. 
 
 Sunny saw Marcy and [[Sophie Perry]] in the [[Elsewhere]]. 
 They were on the bridge laughing and talking. They couldn’t hear or see Sunny while she was asking for help. Sunny described them as talking in 'code' because everything sounded weird and out of place like the sounds were coming from different places every second but it was still making up words. The bridge looked pristine, like it was just built. This was at the beginning of Sunny going to the Elsewhere. They were described by the [[Mother]] as echos from the past.

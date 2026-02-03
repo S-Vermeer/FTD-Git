@@ -12,12 +12,12 @@ What should I look at? ^ocb-6
 
 #TS: 37:28. Due to question finds four pieces of paper on crawl space. [[Crawl space Trailer 1]], [[Crawl space Trailer 2]], [[Crawl space Trailer 3]], [[Crawl space Trailer 4]].
 #TS: 37:38. Goes to investigate the hole. Didn't see anything but got nervous. 
-#TS: 38:07. Tries to go inside the trailer. Hears a scream. [[FTD-Git/Characters/Stranger|Stranger]] calls out to Sunny. Says they gotta go. Sunny runs toward them.
- #TS: 38:20. Sunny asks the [[FTD-Git/Characters/Stranger|Stranger]] where it wants them to got. It says the [[Pet Cemetery]]. Asks the stranger what they need. Points to a note in the grass. [[Note Pet Cemetery 1]]. Asks if they can go home now. Stranger says no. 
+#TS: 38:07. Tries to go inside the trailer. Hears a scream. [[The Stranger|The Stranger]] calls out to Sunny. Says they gotta go. Sunny runs toward them.
+ #TS: 38:20. Sunny asks the [[The Stranger|The Stranger]] where it wants them to got. It says the [[Pet Cemetery]]. Asks the stranger what they need. Points to a note in the grass. [[Note Pet Cemetery 1]]. Asks if they can go home now. Stranger says no. 
  
-#TS: 38:42. Asks [[FTD-Git/Characters/Stranger|Stranger]] where they need to go now. Says [[Neighbours house red roof]]. When they arrive there, the stranger is gone from the cart. Phillip remains. The stranger is standing on the edge of the plot, holding the paper. [[Neighbours house red roof 1]]. Doesn't want to get back in, but takes phillip and Sunny leaves to go home.  
+#TS: 38:42. Asks [[The Stranger|The Stranger]] where they need to go now. Says [[Neighbours house red roof]]. When they arrive there, the stranger is gone from the cart. Phillip remains. The stranger is standing on the edge of the plot, holding the paper. [[Neighbours house red roof 1]]. Doesn't want to get back in, but takes phillip and Sunny leaves to go home.  
 
-#TS: 39:40. It is dark. Sunny calls out to the stranger, saying they have soup for them. [[FTD-Git/Characters/Stranger|Stranger]] appears. Asks if they really do. Sunny gives the stranger chicken soup. Warns that it is hot. Sunny asks if it is good and the stranger nods. Sunny asks if it likes it and the stranger gives another small nod. This makes Sunny conclude that the stranger is nice. Sunny pets their head and the stranger smiles. 
+#TS: 39:40. It is dark. Sunny calls out to the stranger, saying they have soup for them. [[The Stranger|The Stranger]] appears. Asks if they really do. Sunny gives the stranger chicken soup. Warns that it is hot. Sunny asks if it is good and the stranger nods. Sunny asks if it likes it and the stranger gives another small nod. This makes Sunny conclude that the stranger is nice. Sunny pets their head and the stranger smiles. 
 
 #TS:40:38. Sunny says it has been a while but decided to start filming videos again after their break because things have been happening even after they left their grandmas house. She went home but is being sent some creepy videos and needs to show us the notes they found on their last day there. 
 

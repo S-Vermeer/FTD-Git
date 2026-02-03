@@ -8,7 +8,7 @@ name: Basement Docs
 
 [https://docs.google.com/document/d/1-1KN6bGFspwwru7-8VrTrBS4HUFZR_gSrwQtw7wFNbw/edit](https://docs.google.com/document/d/1-1KN6bGFspwwru7-8VrTrBS4HUFZR_gSrwQtw7wFNbw/edit "https://docs.google.com/document/d/1-1KN6bGFspwwru7-8VrTrBS4HUFZR_gSrwQtw7wFNbw/edit")
 
-Stuff is Way - They might be giants - [https://youtu.be/Z58IulCjZkA](https://youtu.be/Z58IulCjZkA "https://youtu.be/Z58IulCjZkA")
+[[Stuff is Way]] - They might be giants - [https://youtu.be/Z58IulCjZkA](https://youtu.be/Z58IulCjZkA "https://youtu.be/Z58IulCjZkA")
 
 Viginere Cipher with codeword [[Sophie Perry|Sophie]]
 

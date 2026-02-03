@@ -5,6 +5,7 @@ name: Gazebo 1
 
 #juggl 
 - foundAt [[Gazebo]]
+- referenes [[Sapphire bullets of pure love]]
 
 For Florence,
 

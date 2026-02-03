@@ -19,7 +19,7 @@ Goes to see grim, walking over a sunny path with a positive attitude. Has brough
 #TS: 24:03. [[Grimm]] is the goodest boy and gets a treat.
 Should I follow the dog: Yes or No ^ftd-3
 Follows Grimm to a field. Grimm goes to grab a stick.
-#TS: 24:34. Sunny finds tiny little headstones at the side of the field. Grimm is gone. The [[FTD-Git/Characters/Stranger|Stranger]] shows up and says that it is a [[Pet Cemetery]]. Sunny is frightened because the stranger snuck up on her. Scene cut and then Sunny goes to explain and Grimm is back and the stranger is nowhere to be found. 
+#TS: 24:34. Sunny finds tiny little headstones at the side of the field. Grimm is gone. The [[The Stranger|The Stranger]] shows up and says that it is a [[Pet Cemetery]]. Sunny is frightened because the stranger snuck up on her. Scene cut and then Sunny goes to explain and Grimm is back and the stranger is nowhere to be found. 
 
 Grimm is walking home, done for the day. Sunny says she is going to do some more investigating.
 

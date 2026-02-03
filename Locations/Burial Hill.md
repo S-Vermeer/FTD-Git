@@ -5,7 +5,7 @@ name: Burial Hill
 #juggl 
 Right next to the [[Pet Cemetery]]
 
-The hill where Sunny saw the [[FTD-Git/Characters/Stranger|Stranger]] burry her in the [[Elsewhere]]
+The hill where Sunny saw the [[The Stranger|The Stranger]] burry her in the [[Elsewhere]]
 The stranger said it was made up by [[Mother]], an imposter.
 
 Then she shows us where she saw herself get buried, which is a few meters away, but there is a place where the dirt is dug up with a shovel standing up. There is also a rake. Creepy sounds in the back. 

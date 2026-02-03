@@ -17,4 +17,4 @@ She got a pie from [[Sunny's Grandma - Helen|Helen]] and [[Sunny's Grandpa - Mar
 
 The name Denise was not recognized by Sunny.
 
-In the discord the [[FTD-Git/Characters/Stranger|Stranger]] responded to 'does Denise sound familiar' with cow, meaning yes.
+In the discord the [[The Stranger|The Stranger]] responded to 'does Denise sound familiar' with cow, meaning yes.
